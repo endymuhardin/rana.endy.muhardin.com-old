@@ -4,7 +4,7 @@
 .gist-cache
 .pygments-cache
 _deploy
-public
+# public # deploy public folder to heroku
 sass.old
 source.old
 source/_stash
