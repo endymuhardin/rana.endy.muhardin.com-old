@@ -164,9 +164,9 @@ Keterbatasan lensa ini adalah bukaan diafragma yang relatif kecil, sehingga meng
 
 Walaupun demikian, tidak perlu berkecil hati. Justru dengan keterbatasan bukaan kecil kita bisa mengasah kemampuan komposisi kita. Genre fotografi tertentu seperti `landscape`(pemandangan alam), `street photography` atau `environmental portrait` justru membutuhkan bukaan yang kecil.
 
-{% img /images/2013/10/membeli/bukit-hambalang.jpg Bukit Hambalang %}
+{% img /images/2013/10/membeli/becak.jpg Becak %}
 
-Foto di atas diambil di Bukit Hambalang yang sering kita dengar di berita televisi, menggunakan kamera handphone. Informasi detail tentang fotonya (data `EXIF`) bisa dilihat [di sini](http://www.flickr.com/photos/9177567@N08/8811375869/meta/).
+Foto di atas diambil menggunakan lensa kit 18-70 mm bawaan Nikon D70s.
 
 Kalau ada budget sisa, kita bisa membeli lensa prime 50mm yang memiliki bukaan f/1.8. Harganya relatif murah (Nikon 1,4 juta, Canon 1 juta). Walaupun murah, kemampuannya sudah sangat canggih. Lensa 50mm ini adalah lensa wajib yang umumnya pasti dimiliki oleh fotografer profesional. Saking populernya karena bagus dan murah, lensa ini memiliki julukan tersendiri, yaitu `nifty-fifty`.
 
@@ -210,4 +210,6 @@ The single most important component of a camera is the twelve inches behind it!
 
 Komponen terpenting dari kamera adalah duabelas inci di belakangnya (baca: otak Anda). Si pemegang kamera yang pada akhirnya menentukan keindahan dan kekuatan pesan dari foto yang dihasilkan.
 
-{% img /images/2013/10/membeli/cabut-gigi.jpg Cabut Gigi %}
+{% img /images/2013/10/membeli/bukit-hambalang.jpg Bukit Hambalang %}
+
+Foto di atas diambil di Bukit Hambalang yang sering kita dengar di berita televisi, menggunakan kamera handphone. Informasi detail tentang fotonya (data `EXIF`) bisa dilihat [di sini](http://www.flickr.com/photos/9177567@N08/8811375869/meta/).
