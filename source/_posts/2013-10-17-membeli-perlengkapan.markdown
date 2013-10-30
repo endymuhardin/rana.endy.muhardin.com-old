@@ -29,28 +29,25 @@ Kita akan buat daftarnya, dan kemudian kita akan jelaskan lebih rinci di bawah.
 1. Tahap pertama : budget 3 - 7 juta
 
     * Bodi kamera
-    * Lensa
+    * Lensa kit
     * Memori card
     * Tas
 
 2. Tahap kedua : budget 2 - 3 juta
 
-    * Lensa bukaan lebar
-    * Reflektor
+    * Lensa bukaan lebar (fast lens)
     * 1 flash
     * 1 set trigger
-
-3. Tahap ketiga : budget 
-
     * Lightstand
     * Payung
+
+3. Tahap ketiga : budget sekuat kantong Anda
+
+    * Reflektor
+    * Softbox
     * Gel
-    * 2 flash
-
-4. Tahap selanjutnya 
-
-    * sesuai kebutuhan
-
+    * Flash tambahan
+    
 Sekedar pembanding, berikut daftar perlengkapan yang saya miliki dan sudah saya anggap memadai untuk segala macam kondisi: 
 
 ![Gears](/images/2013/10/membeli/gears.jpg)
@@ -126,13 +123,26 @@ Terakhir, dari sisi harga mulai yang termurah:
 
 Seperti kita lihat, selisih harga antara mirrorless dan DSLR kelas menengah ke bawah relatif tipis. Kualitas gambar juga tidak terpaut jauh. Dengan demikian bagi pehobi berkantong lumayan, tinggal memilih antara bobot ringan mirrorless atau banyaknya pilihan lensa DSLR.
 
+
+## Memilih Merek ##
+
+Dua merek yang paling populer saat ini adalah Canon dan Nikon. Selain itu masih ada Fuji, Sony, Olympus, dan lainnya. Semua merek bersaing ketat sehingga tidak bisa disebut siapa yang terbaik. Setiap satu merek mengeluarkan produk unggulan, selang beberapa minggu merek lain akan segera merilis produk yang setara.
+
+Oleh karena itu, dalam memilih merek saran saya hanya satu saja
+
+> Pilihlah merek yang banyak digunakan teman Anda
+
+Kenapa begitu? Pertama, untuk memudahkan pinjam-meminjam. Seringkali ada perangkat yang kita pakai jarang-jarang, misalnya flash, trigger, atau lensa. Atau seringkali kita ingin membeli suatu aksesoris, tapi ragu-ragu terhadap kinerja/kenyamanan/kecocokan/dan sebagainya. Kalau kita banyak teman yang menggunakan merek serupa, besar peluangnya mereka punya aksesoris tersebut dan bisa kita pinjam.
+
+Alasan kedua, untuk memudahkan kita bertanya bila ada kesulitan. Teman-teman kita yang sudah lebih berpengalaman biasanya sudah lebih paham dan familiar dengan merek tersebut. Dimana letak tombol, konfigurasi, setting, dan berbagai tips pemakaian kamera akan lebih mudah ditanyakan bila yang kita tanyai menggunakan barang yang sama.
+
 ## Rekomendasi ##
 
 * Budget longgar : DSLR kelas menengah (Nikon D5100 atau Canon 600D), atau mirrorless (Sony NEX-5, Olympus E-PL1 atau FujiFilm X-A1). Siapkan budget 5-10 juta untuk kamera, lensa, dan memory card. 
 
-* Budget mepet : P&S seperti disebutkan di atas.
+* Budget mepet : DSLR entry level (Nikon D3100 atau Canon 1100D), P&S yang punya mode Manual. Dengan 2-5 juta sudah bisa punya kamera.
 
-Walaupun demikian, bila ingin belajar sampai tingkat lanjut, saya tidak merekomendasikan P&S karena dia tidak memiliki dudukan untuk memasang flash. Tanpa dudukan flash, kita tidak bisa belajar lighting. Akan tetapi, untuk pelajaran tahap pertama P&S sudah sangat memadai.
+Walaupun demikian, bila ingin belajar sampai tingkat lanjut, saya tidak merekomendasikan P&S karena dia tidak memiliki dudukan untuk memasang flash. Tanpa dudukan flash, kita tidak bisa belajar lighting. Daripada membeli P&S, lebih baik sabar menabung sedikit lagi. Selisih antara P&S dan DSLR entry level hanya 1-2 juta.
 
 Ada satu fitur yang wajib dimiliki kamera bila ingin kita gunakan untuk belajar, yaitu mode setting manual. Tanpa mode ini, kita tidak bisa mengatur kamera secara maksimal. Misalnya foto _long exposure_ seperti ini tidak bisa dibuat kalau settingnya tidak manual.
 
@@ -140,7 +150,9 @@ Ada satu fitur yang wajib dimiliki kamera bila ingin kita gunakan untuk belajar,
 
 ## Tips dan Strategi ##
 
-Untuk menekan budget, strategi yang biasa saya gunakan adalah membeli model bukan yang terbaru. Saya membeli Nikon D5100 pada saat seri terbaru D5200 baru saja dirilis. Ini menyebabkan harga D5100 menjadi turun signifikan. Demikian juga bila kita ingin mencari kamera second, inilah saat yang tepat. Banyak orang gila upgrade yang akan segera membeli versi terbaru dan menjual versi (tidak terlalu) lama yang dia miliki.
+Untuk menekan budget, strategi yang biasa saya gunakan adalah membeli model bukan yang terbaru. Saya membeli Nikon D5100 pada saat seri terbaru D5200 baru saja dirilis. Ini menyebabkan harga D5100 menjadi turun signifikan. Biasanya model lama masih banyak tersedia stok baru di toko walaupun model terbaru sudah dirilis. 
+
+Demikian juga bila kita ingin mencari kamera second, inilah saat yang tepat. Banyak orang maniak upgrade yang akan segera membeli versi terbaru dan menjual versi (tidak terlalu) lama yang dia miliki.
 
 ## Berbagai Mitos dan Jargon ##
 
@@ -166,7 +178,7 @@ Walaupun demikian, tidak perlu berkecil hati. Justru dengan keterbatasan bukaan 
 
 {% img /images/2013/10/membeli/becak.jpg Becak %}
 
-Foto di atas diambil menggunakan lensa kit 18-70 mm bawaan Nikon D70s.
+Foto di atas diambil menggunakan lensa kit 18-70mm bawaan Nikon D70s.
 
 Kalau ada budget sisa, kita bisa membeli lensa prime 50mm yang memiliki bukaan f/1.8. Harganya relatif murah (Nikon 1,4 juta, Canon 1 juta). Walaupun murah, kemampuannya sudah sangat canggih. Lensa 50mm ini adalah lensa wajib yang umumnya pasti dimiliki oleh fotografer profesional. Saking populernya karena bagus dan murah, lensa ini memiliki julukan tersendiri, yaitu `nifty-fifty`.
 
@@ -182,9 +194,43 @@ Selain itu, dengan adanya flash kita jadi bisa mendapatkan hasil foto sesuai kei
 
 Contoh lain bisa dilihat di [artikel ini](http://strobist.blogspot.com/2013/10/my-week-with-heisler-pt-3.html), sang fotografer mengubah suasana siang hari menjadi seolah-olah menjelang matahari terbenam. Scroll ke bawah ke bagian `Day to Sunset`.
 
+Flash bila dipasang di atas kamera, hasilnya jelek karena tidak ada bayangannya. Bayangan dibutuhkan supaya foto terlihat tiga dimensi. Dengan meletakkan flash di atas kamera, bayangannya tentu akan jatuh di belakang subjek, sehingga tidak terlihat dalam foto. Akibatnya foto kita akan terkesan rata (flat) dua dimensi.
+
+Oleh karena itu, flash harus dilepas dari kamera dan diletakkan di arah yang berbeda, membentuk sudut dengan subjek dan kamera. Untuk keperluan itu, kita membutuhkan trigger dan lightstand.
+
 # Trigger #
 
 Penggunaan flash untuk efek kreatif biasanya menuntut kita untuk bisa menempatkan flash di mana saja, tidak hanya di atas kamera (on-camera flash). Untuk itu dibutuhkan suatu alat yang dinamakan `remote flash trigger`. Fungsinya supaya pada saat kita jepret kamera, flashnya ikut menyala. Bentuknya bisa dilihat di foto perlengkapan saya diatas, benda bulat hitam kecil yang ada sepasang.
+
+Kita membutuhkan minimal dua unit trigger, satu untuk dipasang di kamera (transmitter), satu lagi dipasang di flash (receiver). Ada model trigger yang transmitter dan receivernya sama, bisa dipertukarkan. Istilahnya transceiver. Ada juga yang beda antara receiver dan transmitter.
+
+Trigger yang paling terkenal mereknya Pocket Wizard. Model termurah harganya 2 juta satu buah, bertipe transceiver.
+
+Walaupun demikian, banyak juga trigger buatan China yang murah meriah. Rekomendasi saya adalah YongNuo RF-603. Dia mengeluarkan varian Nikon (RF-603N) dan Canon (RF-603C). Trigger ini sudah terkenal handal dan jauh jangkauannya. Kalau tidak percaya, silahkan [cari reviewnya di Google](http://www.google.com/search?q=rf-603+review). Dari segi kehandalan tidak kalah dengan trigger mahal. Walaupun demikian, ada beberapa kekurangan kecil yang [mudah diatasi](http://makingitasapro.blogspot.com/2012/04/improving-yongnuo-rf-603-radio-flash.html).
+
+Trigger YongNuo ini memiliki kelebihan lain. Dia bisa digunakan tanpa receiver di flash YongNuo YN560-III. Kalau kita punya flash tersebut, kita cukup memasang transceiver di kamera saja.
+
+Selain itu, trigger ini juga bisa berfungsi sebagai remote trigger untuk kamera. Jadi kita bisa taruh kamera di tripod dan ikut difoto dengan mudah. Tidak perlu lagi pasang timer, tekan tombol, dan lari secepat mungkin untuk ikutan foto.
+
+Dengan segala kecanggihan ini, berapa harganya?? Ternyata hanya **350 ribu sepasang**. Satu unit Pocket Wizard harganya sama dengan enam unit YongNuo RF-603.
+
+# Lightstand #
+
+Lightstand adalah tiang tempat kita menaruh flash. Kalau tidak punya lightstand, kita harus bawa teman untuk membantu memegang flash. Daripada kita mentraktir teman setiap sesi foto, akan lebih murah kalau kita beli saja lightstand seharga 200 ribuan. Kalau dibandingkan dengan traktiran fastfood setiap sesi, investasi ini akan balik modal dalam 2-3 kali sesi saja ;)
+
+Lightstand tidak perlu yang mahal. Kalau mau bermerek bisa beli Phottix seharga 300 ribu. Mau yang generik (tidak bermerek) juga lebih murah. 150-200 ribu saja.
+
+# Flash Hotshoe #
+
+Ini gunanya untuk memasang flash di tiang. Biasanya berfungsi ganda untuk memasang payung juga. Harganya 100 ribu untuk yang generik atau 200 ribu merek Phottix.
+
+# Payung #
+
+Payung berguna untuk memperbesar ukuran sumber cahaya. Kalau kita lihat kepala flash, ukurannya relatif kecil dibanding subjek (bandingkan dengan kepala orang). Ini akan menyebabkan bayangannya menjadi kontras. Sumber cahaya yang kecil disebut dengan istilah _hard light_. Untuk membuat portrait, akan lebih bagus bila bayangannya lembut. Ini bisa didapatkan bila ukuran sumber cahaya besar. Sumber cahaya besar disebut dengan istilah _soft light_.
+
+Payung berguna untuk memperbesar ukuran sumber cahaya. Bandingkan saja ukuran payung dengan kepala flash. Cahaya dari lampu flash yang kecil akan melewati payung dulu sehingga menjadi besar. 
+
+Contoh pemakaian payung bisa dibaca [di artikel ini](http://strobist.blogspot.com/2006/03/lighting-101-umbrellas.html).
 
 # Reflektor #
 
@@ -199,6 +245,8 @@ Ini adalah pemantul cahaya yang bisa dilipat. Tersedia dalam berbagai ukuran. Pe
 Kegunaannya tentu sesuai dengan namanya, yaitu memantulkan cahaya. Contoh pemakaiannya bisa disimak di video berikut, dimana foto bagus dapat dihasilkan dengan menggunakan kamera handphone dan reflektor.
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/o063wC_SNxo" frameborder="0" allowfullscreen></iframe>
+
+Reflektor harganya berkisar 200 ribuan.
 
 ## Kesimpulan ##
 
