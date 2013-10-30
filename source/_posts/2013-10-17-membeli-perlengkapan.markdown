@@ -208,7 +208,7 @@ Trigger yang paling terkenal mereknya Pocket Wizard. Model termurah harganya 2 j
 
 Walaupun demikian, banyak juga trigger buatan China yang murah meriah. Rekomendasi saya adalah YongNuo RF-603. Dia mengeluarkan varian Nikon (RF-603N) dan Canon (RF-603C). Trigger ini sudah terkenal handal dan jauh jangkauannya. Kalau tidak percaya, silahkan [cari reviewnya di Google](http://www.google.com/search?q=rf-603+review). Dari segi kehandalan tidak kalah dengan trigger mahal. Walaupun demikian, ada beberapa kekurangan kecil yang [mudah diatasi](http://makingitasapro.blogspot.com/2012/04/improving-yongnuo-rf-603-radio-flash.html).
 
-Trigger YongNuo ini memiliki kelebihan lain. Dia bisa digunakan tanpa receiver di flash YongNuo YN560-III. Kalau kita punya flash tersebut, kita cukup memasang transceiver di kamera saja.
+Trigger YongNuo ini memiliki kelebihan lain. Dia bisa [digunakan tanpa receiver di flash YongNuo YN560-III](http://flashhavoc.com/yongnuo-yn-560-iii-review/). Kalau kita punya flash tersebut, kita cukup memasang transceiver di kamera saja.
 
 Selain itu, trigger ini juga bisa berfungsi sebagai remote trigger untuk kamera. Jadi kita bisa taruh kamera di tripod dan ikut difoto dengan mudah. Tidak perlu lagi pasang timer, tekan tombol, dan lari secepat mungkin untuk ikutan foto.
 
