@@ -198,6 +198,8 @@ Flash bila dipasang di atas kamera, hasilnya jelek karena tidak ada bayangannya.
 
 Oleh karena itu, flash harus dilepas dari kamera dan diletakkan di arah yang berbeda, membentuk sudut dengan subjek dan kamera. Untuk keperluan itu, kita membutuhkan trigger dan lightstand.
 
+Flash bermerek harganya cukup mahal. Merek Nikon dan Canon berkisar 3-5 juta satu unit. Tapi jangan khawatir, flash buatan China harganya terjangkau dan kualitasnya memadai. YongNuo mengeluarkan flash YN-460 yang harganya 450 ribu. Kalau mau tampilan yang lebih profesional, bisa ambil YongNuo YN-560II seharga 670 ribu. Tambah sedikit lagi, YN-560III harganya 750 ribu sudah punya built-in receiver sehingga bisa sinkron dengan kamera tanpa trigger.
+
 # Trigger #
 
 Penggunaan flash untuk efek kreatif biasanya menuntut kita untuk bisa menempatkan flash di mana saja, tidak hanya di atas kamera (on-camera flash). Untuk itu dibutuhkan suatu alat yang dinamakan `remote flash trigger`. Fungsinya supaya pada saat kita jepret kamera, flashnya ikut menyala. Bentuknya bisa dilihat di foto perlengkapan saya diatas, benda bulat hitam kecil yang ada sepasang.
