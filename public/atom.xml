@@ -4,7 +4,7 @@
   <title><![CDATA[12" behind the camera]]></title>
   <link href="http://rana.endy.muhardin.com/atom.xml" rel="self"/>
   <link href="http://rana.endy.muhardin.com/"/>
-  <updated>2013-11-04T17:48:17+07:00</updated>
+  <updated>2013-11-04T19:22:19+07:00</updated>
   <id>http://rana.endy.muhardin.com/</id>
   <author>
     <name><![CDATA[Endy Muhardin]]></name>
@@ -159,7 +159,14 @@
 
 <p>Teknik seperti ini (menyeimbangkan tingkat cahaya berbagai bagian dalam foto) disebut dengan istilah <em>tonal compression</em>. Jika ingin melihat fotografer pro melakukannya, silahkan tonton Michael Grecco memotret Martin Scorsese di video berikut.</p>
 
-<iframe width="840" height="630" src="http://rana.endy.muhardin.com//www.youtube.com/embed/_nHKBRbqgos" frameborder="0" allowfullscreen></iframe>
+<div class="ratio-4-3 embed-video-container" onclick="var myAnchor = document.getElementById('_nHKBRbqgos');var tmpDiv = document.createElement('div');tmpDiv.innerHTML = '&lt;iframe style=&quot;vertical-align:top;width:100%;height:100%;position:absolute;&quot; src=&quot;http://www.youtube.com/embed/_nHKBRbqgos?autoplay=1&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;';myAnchor.parentNode.replaceChild(tmpDiv.firstChild, myAnchor);return false;" title="click here to play">
+<a class="youtube-lazy-link" style="width:100%;height:100%;background:#000 url(http://i2.ytimg.com/vi/_nHKBRbqgos/0.jpg) center center no-repeat;background-size:contain;position:absolute" href="http://www.youtube.com/watch?v=_nHKBRbqgos" id="_nHKBRbqgos" onclick="return false;">
+<div class="youtube-lazy-link-div"></div>
+<div class="youtube-lazy-link-info">Michael Grecco Photo Shoot of Director Martin Scorsese in New York City</div>
+</a>
+<div class="video-info" >http://www.michaelgrecco.com/
+Behind the scenes look at L.A. Photographer Michael Grecco and team preparing and executing New York City photo shoot of Director Martin Scorsese.</div>
+</div>
 
 
 <p>Perhatikan lampu di kiri bawah subjek.</p>
@@ -201,7 +208,19 @@
 
 <p>Lebih detail mengenai berbagai mode metering bisa ditonton di video berikut</p>
 
-<iframe width="420" height="315" src="http://rana.endy.muhardin.com//www.youtube.com/embed/B1H3WYkODWA" frameborder="0" allowfullscreen></iframe>
+<div class="ratio-4-3 embed-video-container" onclick="var myAnchor = document.getElementById('B1H3WYkODWA');var tmpDiv = document.createElement('div');tmpDiv.innerHTML = '&lt;iframe style=&quot;vertical-align:top;width:100%;height:100%;position:absolute;&quot; src=&quot;http://www.youtube.com/embed/B1H3WYkODWA?autoplay=1&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;';myAnchor.parentNode.replaceChild(tmpDiv.firstChild, myAnchor);return false;" title="click here to play">
+<a class="youtube-lazy-link" style="width:100%;height:100%;background:#000 url(http://i2.ytimg.com/vi/B1H3WYkODWA/0.jpg) center center no-repeat;background-size:contain;position:absolute" href="http://www.youtube.com/watch?v=B1H3WYkODWA" id="B1H3WYkODWA" onclick="return false;">
+<div class="youtube-lazy-link-div"></div>
+<div class="youtube-lazy-link-info">Digital Photography 1 on 1: Episode 25: Metering Part 1: ETTL: Adorama Photography TV</div>
+</a>
+<div class="video-info" >This week is the first episode in a four-part series about metering. In this episode, Mark will explain how your camera meters light and uses that to make a correct exposure. In the coming weeks, he will also go over exposure compensation, using a light meter and some advanced light metering tricks - so stay tuned!
+
+For related products and more articles and videos about exposure, go here: http://www.adorama.com/alc/article/TTL-Metering-AdoramaTV
+
+Visit http://www.adorama.com/learn for more photography videos!
+
+Send your questions to: AskMark@Adorama.com</div>
+</div>
 
 
 <p>Kapan dan bagaimana cara menggunakannya bisa dibaca <a href="http://blog.mingthein.com/2013/01/04/metering-part-two/">di penjelasan Ming Thein</a>.</p>

@@ -138,7 +138,7 @@ Setelah itu, gunakan flash untuk _mengangkat_ tingkat terang dari subjek, sehing
 
 Teknik seperti ini (menyeimbangkan tingkat cahaya berbagai bagian dalam foto) disebut dengan istilah _tonal compression_. Jika ingin melihat fotografer pro melakukannya, silahkan tonton Michael Grecco memotret Martin Scorsese di video berikut.
 
-<iframe width="840" height="630" src="//www.youtube.com/embed/_nHKBRbqgos" frameborder="0" allowfullscreen></iframe>
+{% youtube _nHKBRbqgos %}
 
 Perhatikan lampu di kiri bawah subjek. 
 
@@ -176,7 +176,7 @@ Walaupun demikian, biasanya saya malas untuk mengubah-ubah setting metering. Kal
 
 Lebih detail mengenai berbagai mode metering bisa ditonton di video berikut
 
-<iframe width="420" height="315" src="//www.youtube.com/embed/B1H3WYkODWA" frameborder="0" allowfullscreen></iframe>
+{% youtube B1H3WYkODWA %}
 
 Kapan dan bagaimana cara menggunakannya bisa dibaca [di penjelasan Ming Thein](http://blog.mingthein.com/2013/01/04/metering-part-two/).
 
