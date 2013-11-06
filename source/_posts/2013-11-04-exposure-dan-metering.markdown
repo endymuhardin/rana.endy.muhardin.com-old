@@ -78,6 +78,16 @@ Dengan bermodalkan ketiga variabel segitiga exposure, berikut adalah workflow ya
 4. Jepret
 5. Periksa histogram. Kalau tidak sesuai, ulangi dari langkah #1.
 
+### Contoh Kasus ###
+
+Situasi: anak-anak bermain di kolam pada siang hari. Set ISO menjadi 100. Kita ingin membekukan cipratan air yang dimainkan anak-anak. Untuk itu kita set shutter speed yang tinggi, misalnya 1/400 detik. Intip viewfinder, sesuaikan aperture sampai indikator light meter ada di tengah, misalnya didapatkan nilai f/8. [Jepret](http://www.flickr.com/photos/9177567@N08/10512675224/meta/).
+
+{% img /images/2013/11/exposure-metering/the-last-waterbender.jpg The Last Water Bender %}
+
+Contoh kedua, di dalam ruangan. Set ISO menjadi 400 sebagai titik awal. Kita ingin membuat portrait orang. Biasanya kita buka aperture selebar mungkin, misalnya f/1.8. Intip viewfinder, sesuaikan shutter speed sampai indikator light meter ada di tengah. Ternyata didapatkan 1/80. Karena ini foto orang tidak bergerak, shutter speed tidak perlu sebesar itu. Kita bisa turunkan menjadi 1/60 sehingga ISO juga bisa turun menjadi 320. ISO rendah kualitas fotonya lebih baik. Sebetulnya bisa diturunkan lagi menjadi 1/30 dan ISO 180. Tapi saya takut kehilangan momen, sehingga cukup sampai di 1/60 dan ISO 320 langsung saya [jepret](http://www.flickr.com/photos/9177567@N08/10663109326/meta/).
+
+{% img /images/2013/11/exposure-metering/abah-hp.jpg Abah dan HP %}
+
 ## Histogram ##
 
 > Apa itu histogram?
