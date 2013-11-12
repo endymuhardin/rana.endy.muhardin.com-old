@@ -65,7 +65,7 @@ Objek di dekat kamera tampak tajam, sedangkan objek yang jauh tampak blur. Foto 
 
 {% img /images/2013/11/segitiga-exposure/dof-lebar.jpg %}
 
-Kita bisa lihat bahwa baik objek yang jauh tidak se-blur sebelumnya. 
+Kita bisa lihat bahwa objek yang jauh tidak se-blur sebelumnya. 
 
 Seringkali kita tidak bisa membuka lensa lebar-lebar karena beberapa faktor, diantaranya:
 
