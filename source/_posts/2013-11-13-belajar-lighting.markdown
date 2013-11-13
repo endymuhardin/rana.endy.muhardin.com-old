@@ -248,7 +248,12 @@ Ada dua pilihan dalam memotret benda bertekstur seperti kain:
 * menonjolkan teksturnya. Misalnya memotret jeans.
 * menyembunyikan teksturnya. Misalnya memotret kemeja resmi.
 
-Untuk menonjolkan tekstur, gunakan cahaya dari samping. Sedangkan untuk menyembunyikan tekstur, gunakan cahaya lurus dari depan/atas. Ilustrasinya dijelaskan [di artikel ini](http://photography.tutsplus.com/articles/how-to-photograph-fabric-and-clothes--photo-12330).
+Untuk menonjolkan tekstur, gunakan cahaya dari samping. Hard light dari sumber cahaya berukuran kecil juga bisa lebih menonjolkan kerutan-kerutan pada objek.
+
+Sedangkan untuk menyembunyikan tekstur, gunakan cahaya lurus dari depan/atas. Kita bisa gunakan soft light dari sumber cahaya besar untuk membuat kerutan tidak terlalu terlihat.
+
+
+Ilustrasinya dijelaskan [di artikel ini](http://photography.tutsplus.com/articles/how-to-photograph-fabric-and-clothes--photo-12330).
 
 ## Kesimpulan ##
 
