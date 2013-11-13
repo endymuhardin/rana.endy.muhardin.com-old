@@ -219,6 +219,36 @@ Dengan mengkombinasikan durasi shutter speed dan durasi flash, kita bisa membuat
 
 {% youtube Dgnci8MH4sE %}
 
+## Permukaan ##
+
+Belajar lighting belum lengkap kalau belum memotret permukaan yang aneh-aneh, yaitu:
+
+* tembus pandang. Misalnya gelas, botol, dan sejenisnya
+* memantulkan cahaya. Misalnya sendok, garpu, panci, dan logam lainnya
+* bertekstur. Misalnya kain, tembok, lukisan, dan lainnya
+
+Kita mulai dari permukaan tembus pandang. Silahkan tonton penjelasan Om Karl Taylor.
+
+{% youtube IIm-SZHKOW4 %}
+
+Inti dari memotret botol dan gelas adalah menghilangkan tepi sumber cahaya yang terlalu tajam. Ini dilakukan dengan cara `diffusion`. Sumber cahaya dihalangi oleh bahan yang tembus cahaya tapi tidak bening. Kita bisa gunakan kertas kalkir yang tersedia di toko buku.
+
+Selanjutnya, memotret logam oleh Pro Photo Life
+
+{% youtube KoY-cyxDMEk %}
+
+Dalam memotret benda mengkilap, kita justru harus memotret pantulan cahayanya. Prinsip yang digunakan ada di pelajaran IPA waktu SD, sudut datang cahaya = sudut pantul. 
+
+Berikutnya, memotret benda bertekstur.
+
+{% youtube 2CnAcWAO5bU %}
+
+Ada dua pilihan dalam memotret benda bertekstur seperti kain:
+
+* menonjolkan teksturnya. Misalnya memotret jeans.
+* menyembunyikan teksturnya. Misalnya memotret kemeja resmi.
+
+Untuk menonjolkan tekstur, gunakan cahaya dari samping. Sedangkan untuk menyembunyikan tekstur, gunakan cahaya lurus dari depan/atas. Ilustrasinya dijelaskan [di artikel ini](http://photography.tutsplus.com/articles/how-to-photograph-fabric-and-clothes--photo-12330).
 
 ## Kesimpulan ##
 
@@ -228,13 +258,14 @@ Demikianlah berbagai teknik tentang penggunaan lighting. Tidak perlu galau denga
 * sifat bayangan (hard atau soft), sering juga disebut dengan istilah `quality of light` di tutorial berbahasa Inggris
 * warna cahaya
 * durasi cahaya
+* karakteristik permukaan
 
 Dan penguasaan teknik kontrol cahaya:
 
 * kontrol intensitas strobe dengan mengubah aperture, power lampu, dan jarak lampu-subjek-latar
 * kontrol intensitas ambient dengan mengubah shutter speed
 * kontrol sifat bayangan dengan mengubah ukuran sumber cahaya (menggunakan softbox atau payung)
-* kontrol tempat jatuhnya highlight/shadow dengan penempatan sumber cahaya, reflektor, grid, snoot, gobo
+* kontrol tempat jatuhnya highlight/shadow dengan mengatur penempatan sumber cahaya dan menggunakan reflektor, grid, snoot, gobo
 * kontrol warna dengan gel dan setting white balance
 
 
