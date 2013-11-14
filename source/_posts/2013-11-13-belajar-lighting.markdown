@@ -213,7 +213,7 @@ Karena durasi yang singkat, seperti halnya shutter speed, flash juga memiliki ke
 
 Pemanfaatan durasi flash untuk membekukan gerakan juga bisa dilihat di demo berikut
 
-<iframe src="//player.vimeo.com/video/32792549?portrait=0" width="400" height="225" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/32792549">Bron vs Profoto</a> from <a href="http://vimeo.com/bronimaginggroup">Hasselblad Bron Inc.</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+{% vimeo 32792549 %}
 
 Dengan mengkombinasikan durasi shutter speed dan durasi flash, kita bisa membuat berbagai efek menarik seperti yang dicontohkan Om Bryan Peterson
 

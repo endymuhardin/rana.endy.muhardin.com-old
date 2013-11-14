@@ -4,7 +4,7 @@
   <title><![CDATA[Category: teknik | 12" behind the camera]]></title>
   <link href="http://rana.endy.muhardin.com/categories/teknik/atom.xml" rel="self"/>
   <link href="http://rana.endy.muhardin.com/"/>
-  <updated>2013-11-13T16:37:43+07:00</updated>
+  <updated>2013-11-14T09:25:57+07:00</updated>
   <id>http://rana.endy.muhardin.com/</id>
   <author>
     <name><![CDATA[Endy Muhardin]]></name>
@@ -33,22 +33,13 @@
 
 <p>Lalu dari tiga variabel yang tersedia, mana yang kita ubah? Penjelasan singkatnya bisa dilihat di infografik berikut.</p>
 
-<p><img src="/images/2013/11/segitiga-exposure/exposure-and-metering.jpg"></p>
+<p>{% img /images/2013/11/segitiga-exposure/exposure-and-metering.jpg %}</p>
 
 <p>Infografis diambil <a href="http://www.photographerabroad.com/image/24924941477">dari sini</a></p>
 
 <p>Atau kalau yang lebih suka video, bisa nonton video ini</p>
 
-<p>
-<div class="ratio-4-3 embed-video-container" onclick="var myAnchor = document.getElementById('KQw28-3LEU4');var tmpDiv = document.createElement('div');tmpDiv.innerHTML = '&lt;iframe style=&quot;vertical-align:top;width:100%;height:100%;position:absolute;&quot; src=&quot;http://www.youtube.com/embed/KQw28-3LEU4?autoplay=1&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;';myAnchor.parentNode.replaceChild(tmpDiv.firstChild, myAnchor);return false;" title="click here to play">
-<a class="youtube-lazy-link" style="width:100%;height:100%;background:#000 url(http://i2.ytimg.com/vi/KQw28-3LEU4/0.jpg) center center no-repeat;background-size:contain;position:absolute" href="http://www.youtube.com/watch?v=KQw28-3LEU4" id="KQw28-3LEU4" onclick="return false;">
-<div class="youtube-lazy-link-div"></div>
-<div class="youtube-lazy-link-info">Digital Photography 1 on 1: Episode 16: Exposure</div>
-</a>
-<div class="video-info" >In this episode Mark talks about the basics of exposure. Learn how the Aperture, Shutter and ISO work together to control how an image is exposed.</div>
-</div>
-
-</p>
+<p>{% youtube KQw28-3LEU4 %}</p>
 
 <p>Bingung karena bahasanya Inggris? Butuh penjelasan lebih detail? Harus lihat contoh foto supaya mengerti?</p>
 
@@ -61,11 +52,11 @@
 
 <p>Kita ingin menggunakan ISO serendah mungkin, karena semakin tinggi ISO semakin jelek kualitas fotonya. Bandingkan foto berikut yang diambil dengan ISO 100</p>
 
-<p><img src="/images/2013/11/segitiga-exposure/iso-rendah.jpg"></p>
+<p>{% img /images/2013/11/segitiga-exposure/iso-rendah.jpg %}</p>
 
 <p>dengan foto berikut, diambil dengan ISO 1600</p>
 
-<p><img src="/images/2013/11/segitiga-exposure/iso-tinggi.jpg"></p>
+<p>{% img /images/2013/11/segitiga-exposure/iso-tinggi.jpg %}</p>
 
 <p>Seperti kita bisa lihat, foto dengan ISO tinggi terlihat memiliki banyak <em>noise</em>.</p>
 
@@ -75,19 +66,19 @@
 
 <p>Aperture adalah lubang di lensa, ditunjukkan dengan angka <code>f/xx</code>, contohnya <code>f/2</code> atau <code>f/16</code>. Semakin kecil angkanya, semakin besar lubangnya. Berikut adalah contoh lensa yang dibuka di <code>f/2</code>.</p>
 
-<p><img src="/images/2013/11/segitiga-exposure/bukaan-besar.jpg"></p>
+<p>{% img /images/2013/11/segitiga-exposure/bukaan-besar.jpg %}</p>
 
 <p>Lensa yang sama, dibuka di <code>f/16</code> tampak seperti ini</p>
 
-<p><img src="/images/2013/11/segitiga-exposure/bukaan-kecil.jpg"></p>
+<p>{% img /images/2013/11/segitiga-exposure/bukaan-kecil.jpg %}</p>
 
 <p>Kalau bukaan lebar, cahaya yang direkam sensor menjadi lebih banyak, sehingga kita bisa menurunkan ISO. Walaupun demikian, ruang tajam (<em>depth-of-field</em>) menjadi sempit. Coba lihat foto berikut</p>
 
-<p><img src="/images/2013/11/segitiga-exposure/dof-sempit.jpg"></p>
+<p>{% img /images/2013/11/segitiga-exposure/dof-sempit.jpg %}</p>
 
 <p>Objek di dekat kamera tampak tajam, sedangkan objek yang jauh tampak blur. Foto di atas dibuat dengan <code>f/2</code>. Sekarang kita coba dengan <code>f/16</code>.</p>
 
-<p><img src="/images/2013/11/segitiga-exposure/dof-lebar.jpg"></p>
+<p>{% img /images/2013/11/segitiga-exposure/dof-lebar.jpg %}</p>
 
 <p>Kita bisa lihat bahwa objek yang jauh tidak se-blur sebelumnya.</p>
 
@@ -103,19 +94,19 @@
 
 <p>Shutter speed (kecepatan rana) adalah kecepatan kamera <code>berkedip</code>. Semakin lama dia membuka rana, semakin banyak cahaya masuk. Shutter speed di kamera saya bisa diatur mulai dari terbuka selama kita inginkan (bulb), sampai ke 1/4000 detik. Bila shutter speed cepat, kita bisa membekukan gerakan. Contohnya di foto berikut, kita bisa membekukan air muncrat di udara.</p>
 
-<p><img src="/images/2013/11/segitiga-exposure/shutter-cepat.jpg"></p>
+<p>{% img /images/2013/11/segitiga-exposure/shutter-cepat.jpg %}</p>
 
 <p>Foto di atas dibuat dengan shutter speed 1/250 detik</p>
 
 <p>Bila shutter speed rendah, subjek akan terlihat blur bila dia bergerak dengan kecepatan tinggi. Bisa dilihat di foto berikut.</p>
 
-<p><img src="/images/2013/11/segitiga-exposure/shutter-lambat.jpg"></p>
+<p>{% img /images/2013/11/segitiga-exposure/shutter-lambat.jpg %}</p>
 
 <p>Lompatan subjek terlalu cepat untuk shutter speed 1/100 detik</p>
 
 <p>Bila terlalu lama dibuka, bahkan kita bisa membuat mobil tidak terlihat. Di foto berikut, kita hanya melihat kilasan lampu rem. Mobilnya sendiri tidak terlihat.</p>
 
-<p><img src="/images/2013/11/segitiga-exposure/long-exposure.jpg"></p>
+<p>{% img /images/2013/11/segitiga-exposure/long-exposure.jpg %}</p>
 
 <p>Foto di atas dibuat dengan shutter speed 20 detik.</p>
 
@@ -209,7 +200,7 @@ Opsi terakhir, kita bisa ubah aperture dari f/4 menjadi f/5.6. Shutter speed dan
 
 <p>Jawabannya, ada fitur lain yang harus kita gunakan, yaitu exposure compensation. Tombolnya ditandai dengan simbol berikut</p>
 
-<p><img src="/images/2013/11/segitiga-exposure/exposure-compensation.jpg" width="200"></p>
+<p>{% img /images/2013/11/segitiga-exposure/exposure-compensation.jpg 200 %}</p>
 
 <p>Gambar diambil <a href="http://www.maryga.com/exposure-compensation-definition/">dari sini</a></p>
 
@@ -242,7 +233,7 @@ Opsi terakhir, kita bisa ubah aperture dari f/4 menjadi f/5.6. Shutter speed dan
     <id>http://rana.endy.muhardin.com/teknik/exposure-dan-metering</id>
     <content type="html"><![CDATA[<p>Saya pertama belajar fotografi di tahun 1995, menggunakan kamera film Nikon F3. Di tahun itu belajar fotografi tidak semudah sekarang. Saat ini, kita tinggal cari di Youtube, video tutorial sangat berlimpah. Mulai dari pengenalan kamera, komposisi, lighting, teknik berpose dan mengarahkan model, apapun yang kita butuhkan tersedia. Panduan saya di jaman dulu adalah buku saku <a href="http://www.amazon.com/KODAK-Pocket-Guide-35MM-Photography/dp/0879857692">Kodak Pocket Guide to 35mm Photography</a> milik teman sesama pehobi.</p>
 
-<p><img src="/images/2013/11/exposure-metering/kodak-pocket-guide.jpg" title="Kodak Pocket Guide" ></p>
+<p>{% img /images/2013/11/exposure-metering/kodak-pocket-guide.jpg Kodak Pocket Guide %}</p>
 
 <p><em>Foto diambil dari Amazon.com</em></p>
 
@@ -271,25 +262,25 @@ Opsi terakhir, kita bisa ubah aperture dari f/4 menjadi f/5.6. Shutter speed dan
 </ol>
 
 
-<p><img src="/images/2013/11/exposure-metering/nikon-f3.jpeg" title="Nikon F3" ></p>
+<p>{% img /images/2013/11/exposure-metering/nikon-f3.jpeg Nikon F3 %}</p>
 
 <p><em>foto diambil dari <a href="http://en.wikipedia.org/wiki/File:Nikon_F3_with_HP_viewfinder.jpeg">Wikipedia</a></em></p>
 
 <p>Tapi sejak ada light meter dalam kamera, tidak perlu lagi alat pengukur terpisah. Fotografer bisa melihat pengukuran cahaya dan langsung menyesuaikan setting kamera tanpa matanya perlu meninggalkan lubang intip (viewfinder). Tampilan light meter di kamera saya seperti ini:</p>
 
-<p><img src="/images/2013/11/exposure-metering/lightmeter-viewfinder.jpg" title="Light Meter dalam Viewfinder" ></p>
+<p>{% img /images/2013/11/exposure-metering/lightmeter-viewfinder.jpg Light Meter dalam Viewfinder %}</p>
 
 <p>Di layar LCD juga ada tampilan light meter.</p>
 
-<p><img src="/images/2013/11/exposure-metering/lightmeter-lcd.jpg" title="Light Meter dalam LCD" ></p>
+<p>{% img /images/2013/11/exposure-metering/lightmeter-lcd.jpg Light Meter dalam LCD %}</p>
 
 <p>Kalau indikator berat ke arah <code>+</code>, maka setting kamera kita kelebihan cahaya.</p>
 
-<p><img src="/images/2013/11/exposure-metering/metering-overexposed.png" title="Light Meter Over Exposed" ></p>
+<p>{% img /images/2013/11/exposure-metering/metering-overexposed.png Light Meter Over Exposed %}</p>
 
 <p>Demikian sebaliknya, kalau mengarah ke <code>-</code>, maka kita perlu menambah cahaya yang ditangkap kamera. Intinya, kita mengatur setting kamera supaya posisi indikator ada di tengah.</p>
 
-<p><img src="/images/2013/11/exposure-metering/metering-properly-exposed.png" title="Light Meter Properly Exposed" ></p>
+<p>{% img /images/2013/11/exposure-metering/metering-properly-exposed.png Light Meter Properly Exposed %}</p>
 
 <p><em>Ilustrasi di atas diambil dari <a href="http://www.nikonusa.com/pdf/manuals/dslr/D5100RM_EN.pdf%E2%80%8E">Reference Manual Nikon D5100</a></em></p>
 
@@ -306,7 +297,7 @@ Opsi terakhir, kita bisa ubah aperture dari f/4 menjadi f/5.6. Shutter speed dan
 
 <p>Segitiga exposure lebih mudah dipahami dengan ilustrasi berikut</p>
 
-<p><img src="/images/2013/11/exposure-metering/exposure-triangle.jpg" title="Exposure Triangle" ></p>
+<p>{% img /images/2013/11/exposure-metering/exposure-triangle.jpg Exposure Triangle %}</p>
 
 <p>Ilustrasi diambil <a href="http://www.lightandmatter.org/2011/general-photography-articles/learn-photography/photographys-unifying-theory-the-f-stop/">dari sini</a></p>
 
@@ -325,11 +316,11 @@ Opsi terakhir, kita bisa ubah aperture dari f/4 menjadi f/5.6. Shutter speed dan
 
 <p>Situasi: anak-anak bermain di kolam pada siang hari. Set ISO menjadi 100. Kita ingin membekukan cipratan air yang dimainkan anak-anak. Untuk itu kita set shutter speed yang tinggi, misalnya 1/400 detik. Intip viewfinder, sesuaikan aperture sampai indikator light meter ada di tengah, misalnya didapatkan nilai f/8. <a href="http://www.flickr.com/photos/9177567@N08/10512675224/meta/">Jepret</a>.</p>
 
-<p><img src="/images/2013/11/exposure-metering/the-last-waterbender.jpg" title="The Last Water Bender" ></p>
+<p>{% img /images/2013/11/exposure-metering/the-last-waterbender.jpg The Last Water Bender %}</p>
 
 <p>Contoh kedua, di dalam ruangan. Set ISO menjadi 400 sebagai titik awal. Kita ingin membuat portrait orang. Biasanya kita buka aperture selebar mungkin, misalnya f/1.8. Intip viewfinder, sesuaikan shutter speed sampai indikator light meter ada di tengah. Ternyata didapatkan 1/80. Karena ini foto orang tidak bergerak, shutter speed tidak perlu sebesar itu. Kita bisa turunkan menjadi 1/60 sehingga ISO juga bisa turun menjadi 320. ISO rendah kualitas fotonya lebih baik. Sebetulnya bisa diturunkan lagi menjadi 1/30 dan ISO 180. Tapi saya takut kehilangan momen, sehingga cukup sampai di 1/60 dan ISO 320 langsung saya <a href="http://www.flickr.com/photos/9177567@N08/10663109326/meta/">jepret</a>.</p>
 
-<p><img src="/images/2013/11/exposure-metering/abah-hp.jpg" title="Abah dan HP" ></p>
+<p>{% img /images/2013/11/exposure-metering/abah-hp.jpg Abah dan HP %}</p>
 
 <h2>Histogram</h2>
 
@@ -341,25 +332,25 @@ Opsi terakhir, kita bisa ubah aperture dari f/4 menjadi f/5.6. Shutter speed dan
 
 <p>Preview LCD suka menipu. Bila kita lihat LCD di tengah hari bolong, dia akan terlihat gelap. Karena terlihat gelap, maka kita akan jepret lagi dengan menambah cahaya. Akibatnya foto kita malah jadi overexposed. Demikian juga sebaliknya di malam hari, LCD akan terlihat terang, sehingga kita cenderung memotret lagi dengan cahaya dikurangi. Akibatnya fotonya malah jadi underexposed. Supaya tidak bias dengan kondisi cahaya sekitar, lebih aman kalau kita lihat histogram. Bentuknya seperti ini</p>
 
-<p><img src="/images/2013/11/exposure-metering/histogram.jpg" title="Histogram" ></p>
+<p>{% img /images/2013/11/exposure-metering/histogram.jpg Histogram %}</p>
 
 <p>Sisi paling kiri adalah pixel yang gelap. Makin ke kanan makin terang. Jadi kalau foto kita overexposed, histogram akan terlihat berat ke kanan seperti ini</p>
 
-<p><img src="/images/2013/11/exposure-metering/histogram-over.jpg" title="Histogram Over" ></p>
+<p>{% img /images/2013/11/exposure-metering/histogram-over.jpg Histogram Over %}</p>
 
 <p>Sedangkan kalau fotonya underexposed, histogram akan terlihat berat di kiri seperti ini</p>
 
-<p><img src="/images/2013/11/exposure-metering/histogram-under.jpg" title="Histogram Under" ></p>
+<p>{% img /images/2013/11/exposure-metering/histogram-under.jpg Histogram Under %}</p>
 
 <p>Untuk rata-rata foto yang kita buat, histogram biasanya akan rata atau cenderung ke tengah</p>
 
-<p><img src="/images/2013/11/exposure-metering/histogram-normal.jpg" title="Histogram Normal" ></p>
+<p>{% img /images/2013/11/exposure-metering/histogram-normal.jpg Histogram Normal %}</p>
 
 <blockquote><p>Apakah kita harus selalu membuat histogram berat di tengah?</p></blockquote>
 
 <p>Tidak, tergantung objek yang difoto. Coba perhatikan foto berikut</p>
 
-<p><img src="/images/2013/11/exposure-metering/background-over.jpg" title="Background Over" ></p>
+<p>{% img /images/2013/11/exposure-metering/background-over.jpg Background Over %}</p>
 
 <p>Foto ini sudah <em>benar</em>, karena exposure di wajah subjek sudah tepat. Walaupun demikian, latar belakangnya putih total. Ini disebut dengan istilah <code>clipping</code>. Artinya kamera sudah tidak mampu merekam informasi karena selisih antara bagian gelap dan terang terlalu jauh.</p>
 
@@ -367,49 +358,39 @@ Opsi terakhir, kita bisa ubah aperture dari f/4 menjadi f/5.6. Shutter speed dan
 
 <p>Selisih gelap-terang yang bisa direkam kamera disebut dengan istilah <code>dynamic range</code>. Foto di atas diambil dalam ruangan yang gelap, sedangkan latar belakangnya di luar ruangan pada siang hari. Dalam histogram, clipping ditunjukkan dengan lonjakan nilai di pojok histogram.</p>
 
-<p><img src="/images/2013/11/exposure-metering/histogram-background-over.jpg" title="Histogram Background Over" ></p>
+<p>{% img /images/2013/11/exposure-metering/histogram-background-over.jpg Histogram Background Over %}</p>
 
 <p>Bila <em>clipping</em> terjadi di bagian terang (highlight) maka disebut <em>highlight clipping</em>. Bisa juga terjadi <em>shadow clipping</em> bila terjadi di bagian gelap (shadow). Bila kita cetak <em>highlight clipping</em> di atas kertas putih, printer tidak akan mengeluarkan tinta sama sekali.</p>
 
 <p>Masalah keterbatasan <em>dynamic range</em> kamera akan sangat terasa bila kita memotret pakaian hitam-putih di siang hari. Mau mendapatkan detail di pakaian putih, baju hitamnya clipping. Sebaliknya kalau kita ambil detail di pakaian hitam, bagian putih dan langit akan clipping sehingga tidak terlihat batasnya. Berikut contohnya</p>
 
-<p><img src="/images/2013/11/exposure-metering/highlight-clipping.jpg" title="Highlight Clipping" ></p>
+<p>{% img /images/2013/11/exposure-metering/highlight-clipping.jpg Highlight Clipping %}</p>
 
 <p>Pada foto di atas, kita tidak bisa membedakan batas jilbab dan langit, karena keduanya clipping.</p>
 
 <p>Dalam menghadapi kondisi ini, kita bisa <em>mengangkat</em> tingkat terang dari bagian gelap menggunakan flash. Kita kembali ke foto awal yang backgroundnya clipping ini</p>
 
-<p><img src="/images/2013/11/exposure-metering/background-over.jpg" title="Background Over" ></p>
+<p>{% img /images/2013/11/exposure-metering/background-over.jpg Background Over %}</p>
 
 <p>Pertama, sesuaikan metering supaya background terlihat. Konsekuensinya, subjek akan <em>underexposed</em>.</p>
 
-<p><img src="/images/2013/11/exposure-metering/subject-under.jpg" title="Background Proper, Subject Under" ></p>
+<p>{% img /images/2013/11/exposure-metering/subject-under.jpg Background Proper, Subject Under %}</p>
 
 <p>Setelah itu, gunakan flash untuk <em>mengangkat</em> tingkat terang dari subjek, sehingga seimbang dengan latarnya. Hasilnya seperti ini</p>
 
-<p><img src="/images/2013/11/exposure-metering/subject-bg-proper.jpg" title="Background &amp; Subject Proper" ></p>
+<p>{% img /images/2013/11/exposure-metering/subject-bg-proper.jpg Background &amp; Subject Proper %}</p>
 
 <p>Teknik seperti ini (menyeimbangkan tingkat cahaya berbagai bagian dalam foto) disebut dengan istilah <em>tonal compression</em>. Jika ingin melihat fotografer pro melakukannya, silahkan tonton Michael Grecco memotret Martin Scorsese di video berikut.</p>
 
-<p>
-<div class="ratio-4-3 embed-video-container" onclick="var myAnchor = document.getElementById('_nHKBRbqgos');var tmpDiv = document.createElement('div');tmpDiv.innerHTML = '&lt;iframe style=&quot;vertical-align:top;width:100%;height:100%;position:absolute;&quot; src=&quot;http://www.youtube.com/embed/_nHKBRbqgos?autoplay=1&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;';myAnchor.parentNode.replaceChild(tmpDiv.firstChild, myAnchor);return false;" title="click here to play">
-<a class="youtube-lazy-link" style="width:100%;height:100%;background:#000 url(http://i2.ytimg.com/vi/_nHKBRbqgos/0.jpg) center center no-repeat;background-size:contain;position:absolute" href="http://www.youtube.com/watch?v=_nHKBRbqgos" id="_nHKBRbqgos" onclick="return false;">
-<div class="youtube-lazy-link-div"></div>
-<div class="youtube-lazy-link-info">Michael Grecco Photo Shoot of Director Martin Scorsese in New York City</div>
-</a>
-<div class="video-info" >http://www.michaelgrecco.com/
-Behind the scenes look at L.A. Photographer Michael Grecco and team preparing and executing New York City photo shoot of Director Martin Scorsese.</div>
-</div>
-
-</p>
+<p>{% youtube _nHKBRbqgos %}</p>
 
 <p>Perhatikan lampu di kiri bawah subjek.</p>
 
-<p><img src="/images/2013/11/exposure-metering/grecco-grid-spot.png" title="Grid Spot" ></p>
+<p>{% img /images/2013/11/exposure-metering/grecco-grid-spot.png Grid Spot %}</p>
 
 <p>Itu tujuannya untuk menerangi baju hitam Martin Scorsese supaya tidak <em>clipping</em>, mengingat latar belakangnya langit siang yang terang.</p>
 
-<p><img src="/images/2013/11/exposure-metering/grecco-cloth-detail.png" title="Dark Cloth Bright Subject" ></p>
+<p>{% img /images/2013/11/exposure-metering/grecco-cloth-detail.png Dark Cloth Bright Subject %}</p>
 
 <h2>Setting Light Meter</h2>
 
@@ -428,13 +409,13 @@ Behind the scenes look at L.A. Photographer Michael Grecco and team preparing an
 
 <p>Berikut pilihan mode metering di kamera Nikon dan Canon</p>
 
-<p><img src="/images/2013/11/exposure-metering/canikon-metering-icons.jpg" title="Canon Nikon Metering Mode" ></p>
+<p>{% img /images/2013/11/exposure-metering/canikon-metering-icons.jpg Canon Nikon Metering Mode %}</p>
 
 <p>Gambar diambil <a href="http://www.porters.com/blog/?p=2417">dari sini</a></p>
 
 <p>Sebagai contoh, kita akan memotret subjek dalam kondisi backlit, yaitu cahaya datang dari belakang subjek. Agar subjek pas pencahayaannya, saya gunakan spot meter di wajah subjek.</p>
 
-<p><img src="/images/2013/11/exposure-metering/spot-meter.jpg" title="Spot Metering" ></p>
+<p>{% img /images/2013/11/exposure-metering/spot-meter.jpg Spot Metering %}</p>
 
 <p>Di spot meter, posisi indikator light meter akan berada di tengah. Sedangkan untuk setting yang sama, bila kita gunakan mode matrix metering, posisi indikator akan berada di posisi <em>overexposed</em> karena yang dihitung oleh kamera adalah keseluruhan frame (termasuk latar yang sangat terang), bukan hanya subjeknya saja.</p>
 
@@ -442,22 +423,7 @@ Behind the scenes look at L.A. Photographer Michael Grecco and team preparing an
 
 <p>Lebih detail mengenai berbagai mode metering bisa ditonton di video berikut</p>
 
-<p>
-<div class="ratio-4-3 embed-video-container" onclick="var myAnchor = document.getElementById('B1H3WYkODWA');var tmpDiv = document.createElement('div');tmpDiv.innerHTML = '&lt;iframe style=&quot;vertical-align:top;width:100%;height:100%;position:absolute;&quot; src=&quot;http://www.youtube.com/embed/B1H3WYkODWA?autoplay=1&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;';myAnchor.parentNode.replaceChild(tmpDiv.firstChild, myAnchor);return false;" title="click here to play">
-<a class="youtube-lazy-link" style="width:100%;height:100%;background:#000 url(http://i2.ytimg.com/vi/B1H3WYkODWA/0.jpg) center center no-repeat;background-size:contain;position:absolute" href="http://www.youtube.com/watch?v=B1H3WYkODWA" id="B1H3WYkODWA" onclick="return false;">
-<div class="youtube-lazy-link-div"></div>
-<div class="youtube-lazy-link-info">Digital Photography 1 on 1: Episode 25: Metering Part 1: ETTL: Adorama Photography TV</div>
-</a>
-<div class="video-info" >This week is the first episode in a four-part series about metering. In this episode, Mark will explain how your camera meters light and uses that to make a correct exposure. In the coming weeks, he will also go over exposure compensation, using a light meter and some advanced light metering tricks - so stay tuned!
-
-For related products and more articles and videos about exposure, go here: http://www.adorama.com/alc/article/TTL-Metering-AdoramaTV
-
-Visit http://www.adorama.com/learn for more photography videos!
-
-Send your questions to: AskMark@Adorama.com</div>
-</div>
-
-</p>
+<p>{% youtube B1H3WYkODWA %}</p>
 
 <p>Kapan dan bagaimana cara menggunakannya bisa dibaca <a href="http://blog.mingthein.com/2013/01/04/metering-part-two/">di penjelasan Ming Thein</a>.</p>
 
