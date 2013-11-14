@@ -23,10 +23,6 @@ Lalu dari tiga variabel yang tersedia, mana yang kita ubah? Penjelasan singkatny
 
 Infografis diambil [dari sini](http://www.photographerabroad.com/image/24924941477)
 
-Atau kalau yang lebih suka video, bisa nonton video ini
-
-{% youtube KQw28-3LEU4 %}
-
 Bingung karena bahasanya Inggris? Butuh penjelasan lebih detail? Harus lihat contoh foto supaya mengerti?
 
 Silahkan klik untuk penjelasan dalam bahasa Indonesia.
@@ -198,3 +194,9 @@ Bila kita menggunakan mode Programmed Auto, pilihan 1/100 dan f/4 tidak akan dib
 ### Mode mana yang sebaiknya digunakan ?? ###
 
 Sebetulnya terserah preferensi masing-masing. Saya sendiri selalu menggunakan mode Manual. Soalnya percuma juga menggunakan Aperture atau Shutter Priority, tetap saja kita harus mempertimbangkan over dan under dan menyesuaikannya dengan tombol Exposure Compensation. Akan lebih mudah buat saya melatih refleks penggantian shutter/aperture. Cukup menghafalkan dua tombol apapun situasinya.
+
+
+Kalau butuh referensi lebih lanjut, bisa tonton video berikut ini
+
+{% youtube KQw28-3LEU4 %}
+

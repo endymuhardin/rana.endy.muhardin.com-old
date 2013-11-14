@@ -4,7 +4,7 @@
   <title><![CDATA[Category: gears | 12" behind the camera]]></title>
   <link href="http://rana.endy.muhardin.com/categories/gears/atom.xml" rel="self"/>
   <link href="http://rana.endy.muhardin.com/"/>
-  <updated>2013-11-14T09:25:57+07:00</updated>
+  <updated>2013-11-14T11:03:24+07:00</updated>
   <id>http://rana.endy.muhardin.com/</id>
   <author>
     <name><![CDATA[Endy Muhardin]]></name>
@@ -193,7 +193,7 @@ Bila budget Anda <em>unlimited</em>, tidak perlu membaca artikel ini. Silahkan l
 
 <p>Ada satu fitur yang wajib dimiliki kamera bila ingin kita gunakan untuk belajar, yaitu mode setting manual. Tanpa mode ini, kita tidak bisa mengatur kamera secara maksimal. Misalnya foto <em>long exposure</em> seperti ini tidak bisa dibuat kalau settingnya tidak manual.</p>
 
-<p>{% img /images/2013/10/membeli/long-exposure.jpg &lsquo;Long Exposure&rsquo; %}</p>
+<p><img src="/images/2013/10/membeli/long-exposure.jpg" title="&lsquo;Long Exposure&rsquo;" ></p>
 
 <h2>Tips dan Strategi</h2>
 
@@ -215,15 +215,15 @@ Bila budget Anda <em>unlimited</em>, tidak perlu membaca artikel ini. Silahkan l
 
 <p>Bila kita membeli DSLR entry-level biasanya sudah disertakan lensa bawaan, biasa disebut dengan istilah lensa kit. Lensa ini sudah sangat memadai. Hasil jepretannya bisa dilihat di foto Sate Padang Ampek Limo berikut.</p>
 
-<p>{% img /images/2013/10/membeli/sate-ampek-limo.jpg Sate Ampek Limo %}</p>
+<p><img src="/images/2013/10/membeli/sate-ampek-limo.jpg" title="Sate Ampek Limo" ></p>
 
 <p>Keterbatasan lensa ini adalah bukaan diafragma yang relatif kecil, sehingga mengurangi kemampuan di cahaya minim (misalnya dalam ruangan atau malam hari) dan memburamkan (blur) latar belakang. Foto berikut ini sulit dilakukan dengan lensa kit, karena ruangannya gelap dan saya perlu memisahkan subjek utama (orang) dengan latar belakang menggunakan teknik ruang tajam (<code>depth of field</code>). Kedua hal ini (gelap dan ruang tajam) membutuhkan bukaan diafragma yang besar.</p>
 
-<p>{% img /images/2013/10/membeli/endy-mag-1.jpg Endy %}</p>
+<p><img src="/images/2013/10/membeli/endy-mag-1.jpg" title="Endy" ></p>
 
 <p>Walaupun demikian, tidak perlu berkecil hati. Justru dengan keterbatasan bukaan kecil kita bisa mengasah kemampuan komposisi kita. Genre fotografi tertentu seperti <code>landscape</code>(pemandangan alam), <code>street photography</code> atau <code>environmental portrait</code> justru membutuhkan bukaan yang kecil.</p>
 
-<p>{% img /images/2013/10/membeli/becak.jpg Becak %}</p>
+<p><img src="/images/2013/10/membeli/becak.jpg" title="Becak" ></p>
 
 <p>Foto di atas diambil menggunakan lensa kit 18-70mm bawaan Nikon D70s.</p>
 
@@ -235,7 +235,7 @@ Bila budget Anda <em>unlimited</em>, tidak perlu membaca artikel ini. Silahkan l
 
 <p>Memotret dengan cahaya seadanya harus dikuasai dengan baik. Setelah mahir, kita dapat menambahkan sumber cahaya ekstra untuk menimbulkan berbagai efek kreatif dan mengatur mood foto.</p>
 
-<p>{% img /images/2013/10/membeli/gadget.jpg Berebut Gadget %}</p>
+<p><img src="/images/2013/10/membeli/gadget.jpg" title="Berebut Gadget" ></p>
 
 <p>Selain itu, dengan adanya flash kita jadi bisa mendapatkan hasil foto sesuai keinginan kita, bagaimanapun situasi lingkungan. Sebagai contoh, foto di atas dibuat siang hari dalam ruangan yang terang. Dengan penggunaan flash yang tepat, ruangan terang bisa dibuat menjadi gelap.</p>
 
@@ -305,13 +305,11 @@ Bila budget Anda <em>unlimited</em>, tidak perlu membaca artikel ini. Silahkan l
 
 <p>Hobi fotografi bisa mahal ataupun murah. Terserah kita mau menghabiskan uang berapa rupiah. Yang jelas, untuk bisa menguasai berbagai teknik tidak butuh kamera mahal. Dengan budget dibawah 3 juta sudah bisa mulai. Penguasaan konsep dan teknik jauh lebih penting daripada harga kamera. Seperti kutipan berikut yang saya jadikan judul blog ini:</p>
 
-<p>{% blockquote Ansel Adams %}
-The single most important component of a camera is the twelve inches behind it!
-{% endblockquote %}</p>
+<p><blockquote><p>The single most important component of a camera is the twelve inches behind it!</p><footer><strong>Ansel Adams</strong></footer></blockquote></p>
 
 <p>Komponen terpenting dari kamera adalah duabelas inci di belakangnya (baca: otak Anda). Si pemegang kamera yang pada akhirnya menentukan keindahan dan kekuatan pesan dari foto yang dihasilkan.</p>
 
-<p>{% img /images/2013/10/membeli/bukit-hambalang.jpg Bukit Hambalang %}</p>
+<p><img src="/images/2013/10/membeli/bukit-hambalang.jpg" title="Bukit Hambalang" ></p>
 
 <p>Foto di atas diambil di Bukit Hambalang yang sering kita dengar di berita televisi, menggunakan kamera handphone. Informasi detail tentang fotonya (data <code>EXIF</code>) bisa dilihat <a href="http://www.flickr.com/photos/9177567@N08/8811375869/meta/">di sini</a>.</p>
 ]]></content>

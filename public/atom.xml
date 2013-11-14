@@ -4,7 +4,7 @@
   <title><![CDATA[12" behind the camera]]></title>
   <link href="http://rana.endy.muhardin.com/atom.xml" rel="self"/>
   <link href="http://rana.endy.muhardin.com/"/>
-  <updated>2013-11-14T09:22:08+07:00</updated>
+  <updated>2013-11-14T11:03:24+07:00</updated>
   <id>http://rana.endy.muhardin.com/</id>
   <author>
     <name><![CDATA[Endy Muhardin]]></name>
@@ -1016,17 +1016,6 @@ http://www.karltaylorphotography.com/pro-photography</div>
 
 <p>Infografis diambil <a href="http://www.photographerabroad.com/image/24924941477">dari sini</a></p>
 
-<p>Atau kalau yang lebih suka video, bisa nonton video ini</p>
-
-<div class="ratio-4-3 embed-video-container" onclick="var myAnchor = document.getElementById('KQw28-3LEU4');var tmpDiv = document.createElement('div');tmpDiv.innerHTML = '&lt;iframe style=&quot;vertical-align:top;width:100%;height:100%;position:absolute;&quot; src=&quot;http://www.youtube.com/embed/KQw28-3LEU4?autoplay=1&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;';myAnchor.parentNode.replaceChild(tmpDiv.firstChild, myAnchor);return false;" title="click here to play">
-<a class="youtube-lazy-link" style="width:100%;height:100%;background:#000 url(http://i2.ytimg.com/vi/KQw28-3LEU4/0.jpg) center center no-repeat;background-size:contain;position:absolute" href="http://www.youtube.com/watch?v=KQw28-3LEU4" id="KQw28-3LEU4" onclick="return false;">
-<div class="youtube-lazy-link-div"></div>
-<div class="youtube-lazy-link-info">Digital Photography 1 on 1: Episode 16: Exposure</div>
-</a>
-<div class="video-info" >In this episode Mark talks about the basics of exposure. Learn how the Aperture, Shutter and ISO work together to control how an image is exposed.</div>
-</div>
-
-
 <p>Bingung karena bahasanya Inggris? Butuh penjelasan lebih detail? Harus lihat contoh foto supaya mengerti?</p>
 
 <p>Silahkan klik untuk penjelasan dalam bahasa Indonesia.</p>
@@ -1209,6 +1198,19 @@ Opsi terakhir, kita bisa ubah aperture dari f/4 menjadi f/5.6. Shutter speed dan
 <h3>Mode mana yang sebaiknya digunakan ??</h3>
 
 <p>Sebetulnya terserah preferensi masing-masing. Saya sendiri selalu menggunakan mode Manual. Soalnya percuma juga menggunakan Aperture atau Shutter Priority, tetap saja kita harus mempertimbangkan over dan under dan menyesuaikannya dengan tombol Exposure Compensation. Akan lebih mudah buat saya melatih refleks penggantian shutter/aperture. Cukup menghafalkan dua tombol apapun situasinya.</p>
+
+<p>Kalau butuh referensi lebih lanjut, bisa tonton video berikut ini</p>
+
+<div class="ratio-4-3 embed-video-container" onclick="var myAnchor = document.getElementById('KQw28-3LEU4');var tmpDiv = document.createElement('div');tmpDiv.innerHTML = '&lt;iframe style=&quot;vertical-align:top;width:100%;height:100%;position:absolute;&quot; src=&quot;http://www.youtube.com/embed/KQw28-3LEU4?autoplay=1&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;';myAnchor.parentNode.replaceChild(tmpDiv.firstChild, myAnchor);return false;" title="click here to play">
+<a class="youtube-lazy-link" style="width:100%;height:100%;background:#000 url(http://i2.ytimg.com/vi/KQw28-3LEU4/0.jpg) center center no-repeat;background-size:contain;position:absolute" href="http://www.youtube.com/watch?v=KQw28-3LEU4" id="KQw28-3LEU4" onclick="return false;">
+<div class="youtube-lazy-link-div"></div>
+<div class="youtube-lazy-link-info">Digital Photography 1 on 1: Episode 16: Exposure</div>
+</a>
+<div class="video-info" >In this episode Mark talks about the basics of exposure. Learn how the Aperture, Shutter and ISO work together to control how an image is exposed.</div>
+</div>
+
+
+
 ]]></content>
   </entry>
   
