@@ -4,7 +4,7 @@
   <title><![CDATA[Category: teknik | 12" behind the camera]]></title>
   <link href="http://rana.endy.muhardin.com/categories/teknik/atom.xml" rel="self"/>
   <link href="http://rana.endy.muhardin.com/"/>
-  <updated>2013-11-15T07:45:27+07:00</updated>
+  <updated>2013-11-15T07:56:29+07:00</updated>
   <id>http://rana.endy.muhardin.com/</id>
   <author>
     <name><![CDATA[Endy Muhardin]]></name>
@@ -320,11 +320,11 @@ Opsi terakhir, kita bisa ubah aperture dari f/4 menjadi f/5.6. Shutter speed dan
 
 <p>Situasi: anak-anak bermain di kolam pada siang hari. Set ISO menjadi 100. Kita ingin membekukan cipratan air yang dimainkan anak-anak. Untuk itu kita set shutter speed yang tinggi, misalnya 1/400 detik. Intip viewfinder, sesuaikan aperture sampai indikator light meter ada di tengah, misalnya didapatkan nilai f/8. <a href="http://www.flickr.com/photos/9177567@N08/10512675224/meta/">Jepret</a>.</p>
 
-<p>{% img /images/2013/11/exposure-metering/the-last-waterbender.jpg The Last Water Bender %}</p>
+<p>{% img <a href="http://farm4.staticflickr.com/3749/10512675224_eacfb29947_c.jpg">http://farm4.staticflickr.com/3749/10512675224_eacfb29947_c.jpg</a> The Last Water Bender %}</p>
 
 <p>Contoh kedua, di dalam ruangan. Set ISO menjadi 400 sebagai titik awal. Kita ingin membuat portrait orang. Biasanya kita buka aperture selebar mungkin, misalnya f/1.8. Intip viewfinder, sesuaikan shutter speed sampai indikator light meter ada di tengah. Ternyata didapatkan 1/80. Karena ini foto orang tidak bergerak, shutter speed tidak perlu sebesar itu. Kita bisa turunkan menjadi 1/60 sehingga ISO juga bisa turun menjadi 320. ISO rendah kualitas fotonya lebih baik. Sebetulnya bisa diturunkan lagi menjadi 1/30 dan ISO 180. Tapi saya takut kehilangan momen, sehingga cukup sampai di 1/60 dan ISO 320 langsung saya <a href="http://www.flickr.com/photos/9177567@N08/10663109326/meta/">jepret</a>.</p>
 
-<p>{% img /images/2013/11/exposure-metering/abah-hp.jpg Abah dan HP %}</p>
+<p>{% img <a href="http://farm6.staticflickr.com/5536/10663109326_760248c922_c.jpg">http://farm6.staticflickr.com/5536/10663109326_760248c922_c.jpg</a> Abah dan HP %}</p>
 
 <h2>Histogram</h2>
 
