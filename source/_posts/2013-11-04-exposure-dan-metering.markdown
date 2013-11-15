@@ -70,6 +70,10 @@ Segitiga exposure lebih mudah dipahami dengan ilustrasi berikut
 
 Ilustrasi diambil [dari sini](http://www.lightandmatter.org/2011/general-photography-articles/learn-photography/photographys-unifying-theory-the-f-stop/)
 
+> Apa pengaruh ketiga variabel tersebut pada hasil foto kita?
+
+Penjelasan dan contohnya dijelaskan secara lebih rinci [di artikel ini](http://rana.endy.muhardin.com/teknik/segitiga-exposure/).
+
 Dengan bermodalkan ketiga variabel segitiga exposure, berikut adalah workflow yang biasa saya gunakan:
 
 1. Setting ISO sesuai kondisi. Siang di luar, ISO 100. Siang dalam ruangan,  ISO 200-400. Malam hari, ISO 1600 ke atas. Tidak ada patokan kaku, ini hanya setting awal saja. Masih mungkin berubah di langkah selanjutnya.
