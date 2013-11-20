@@ -4,7 +4,7 @@
   <title><![CDATA[Category: teknik | 12" behind the camera]]></title>
   <link href="http://rana.endy.muhardin.com/categories/teknik/atom.xml" rel="self"/>
   <link href="http://rana.endy.muhardin.com/"/>
-  <updated>2013-11-20T07:23:52+07:00</updated>
+  <updated>2013-11-20T08:47:27+07:00</updated>
   <id>http://rana.endy.muhardin.com/</id>
   <author>
     <name><![CDATA[Endy Muhardin]]></name>
@@ -44,6 +44,8 @@
 <!--more-->
 
 
+<p><a name="iso"></a></p>
+
 <h2>ISO</h2>
 
 <p>Kita ingin menggunakan ISO serendah mungkin, karena semakin tinggi ISO semakin jelek kualitas fotonya. Bandingkan foto berikut yang diambil dengan ISO 100</p>
@@ -57,6 +59,8 @@
 <p>Seperti kita bisa lihat, foto dengan ISO tinggi terlihat memiliki banyak <em>noise</em>.</p>
 
 <p>Walaupun demikian, seringkali kita tidak bisa menurunkan ISO sampai minimum, karena keterbatasan cahaya. Kalau nekat memakai ISO 100 di kondisi gelap, kita akan terpaksa membuka aperture lebar-lebar, atau menurunkan shutter speed. Seringkali kondisi ini tidak memungkinkan, seperti kita akan bahas.</p>
+
+<p><a name="aperture"></a></p>
 
 <h2>Aperture</h2>
 
@@ -86,6 +90,8 @@
 </ul>
 
 
+<p><a name="shutter-speed"></a></p>
+
 <h2>Shutter Speed</h2>
 
 <p>Shutter speed (kecepatan rana) adalah kecepatan kamera <code>berkedip</code>. Semakin lama dia membuka rana, semakin banyak cahaya masuk. Shutter speed di kamera saya bisa diatur mulai dari terbuka selama kita inginkan (bulb), sampai ke 1/4000 detik. Bila shutter speed cepat, kita bisa membekukan gerakan. Contohnya di foto berikut, kita bisa membekukan air muncrat di udara.</p>
@@ -111,6 +117,8 @@
 <p>Untuk membuat foto benda diam (contohnya produk atau potret orang berpose), shutter speed yang digunakan bebas berapa saja. Yang perlu diperhatikan adalah, kalau kamera kita pegang shutter speed jangan kurang dari 1/focal-length-lensa. Contohnya, bila kita menggunakan lensa 85mm, maka shutter speed jangan kurang dari 1/85 detik. Ini tujuannya untuk menghindari gambar blur karena tangan kita goyang pada saat memotret. Semakin panjang focal-length lensa, biasanya sudut pandangnya sempit. Sedikit gerakan saja, gesernya jauh. Ditambah lagi dengan faktor berat, semakin panjang focal-length, biasanya lensa semakin berat. Ini menyulitkan kita untuk memegang kamera dengan stabil.</p>
 
 <p>Bila kita ingin memotret anak-anak berlarian, shutter speed harus agak tinggi supaya mampu membekukan gerakan subjek. Saya biasa menggunakan shutter speed di atas 1/100 detik.</p>
+
+<p><a name="stop"></a></p>
 
 <h2>Memahami stop</h2>
 
@@ -174,6 +182,8 @@ Opsi terakhir, kita bisa ubah aperture dari f/4 menjadi f/5.6. Shutter speed dan
 
 <p>Sepanjang <a href="http://rana.endy.muhardin.com/teknik/exposure-dan-metering/">artikel pertama mengenai metering</a> dan artikel ini mengenai segitiga exposure, kita selalu menggunakan mode exposure manual. Sekarang setelah konsepnya kita pahami, kita bisa mencoba mode otomatis yang disediakan kamera.</p>
 
+<p><a name="pasm"></a></p>
+
 <h2>Mode PASM</h2>
 
 <p>Kamera DSLR umumnya dilengkapi dengan minimal empat pilihan exposure, yaitu:</p>
@@ -187,6 +197,8 @@ Opsi terakhir, kita bisa ubah aperture dari f/4 menjadi f/5.6. Shutter speed dan
 
 
 <p>Keempat pilihan ini biasa disebut dengan istilah mode PASM. Aperture Priority di Nikon simbolnya A, di Canon Av. Shutter priority di Nikon simbolnya S, di Canon Tv.</p>
+
+<p><a name="compensation"></a></p>
 
 <h3>Exposure Compensation</h3>
 
@@ -335,6 +347,8 @@ Opsi terakhir, kita bisa ubah aperture dari f/4 menjadi f/5.6. Shutter speed dan
 
 <p><img class="<a" src="href="http://farm6.staticflickr.com/5536/10663109326_760248c922_c.jpg">http://farm6.staticflickr.com/5536/10663109326_760248c922_c.jpg</a>" title="Abah dan HP" ></p>
 
+<p><a name="histogram"></a></p>
+
 <h2>Histogram</h2>
 
 <blockquote><p>Apa itu histogram?</p></blockquote>
@@ -366,6 +380,8 @@ Opsi terakhir, kita bisa ubah aperture dari f/4 menjadi f/5.6. Shutter speed dan
 <p><img src="/images/2013/11/exposure-metering/background-over.jpg" title="Background Over" ></p>
 
 <p>Foto ini sudah <em>benar</em>, karena exposure di wajah subjek sudah tepat. Walaupun demikian, latar belakangnya putih total. Ini disebut dengan istilah <code>clipping</code>. Artinya kamera sudah tidak mampu merekam informasi karena selisih antara bagian gelap dan terang terlalu jauh.</p>
+
+<p><a name="dynamic-range"></a></p>
 
 <h2>Dynamic Range</h2>
 
@@ -414,6 +430,8 @@ Behind the scenes look at L.A. Photographer Michael Grecco and team preparing an
 <p>Itu tujuannya untuk menerangi baju hitam Martin Scorsese supaya tidak <em>clipping</em>, mengingat latar belakangnya langit siang yang terang.</p>
 
 <p><img src="/images/2013/11/exposure-metering/grecco-cloth-detail.png" title="Dark Cloth Bright Subject" ></p>
+
+<p><a name="setting-light-meter"></a></p>
 
 <h2>Setting Light Meter</h2>
 
@@ -464,6 +482,8 @@ Send your questions to: AskMark@Adorama.com</div>
 </p>
 
 <p>Kapan dan bagaimana cara menggunakannya bisa dibaca <a href="http://blog.mingthein.com/2013/01/04/metering-part-two/">di penjelasan Ming Thein</a>.</p>
+
+<p><a name="middle-grey"></a></p>
 
 <h2>Metering dan Middle Grey</h2>
 

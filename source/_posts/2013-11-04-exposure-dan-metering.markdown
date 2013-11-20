@@ -92,6 +92,7 @@ Contoh kedua, di dalam ruangan. Set ISO menjadi 400 sebagai titik awal. Kita ing
 
 {% img http://farm6.staticflickr.com/5536/10663109326_760248c922_c.jpg Abah dan HP %}
 
+<a name="histogram"></a>
 ## Histogram ##
 
 > Apa itu histogram?
@@ -124,6 +125,7 @@ Tidak, tergantung objek yang difoto. Coba perhatikan foto berikut
 
 Foto ini sudah _benar_, karena exposure di wajah subjek sudah tepat. Walaupun demikian, latar belakangnya putih total. Ini disebut dengan istilah `clipping`. Artinya kamera sudah tidak mampu merekam informasi karena selisih antara bagian gelap dan terang terlalu jauh. 
 
+<a name="dynamic-range"></a>
 ## Dynamic Range ##
 
 Selisih gelap-terang yang bisa direkam kamera disebut dengan istilah `dynamic range`. Foto di atas diambil dalam ruangan yang gelap, sedangkan latar belakangnya di luar ruangan pada siang hari. Dalam histogram, clipping ditunjukkan dengan lonjakan nilai di pojok histogram.
@@ -162,6 +164,7 @@ Itu tujuannya untuk menerangi baju hitam Martin Scorsese supaya tidak _clipping_
 
 {% img /images/2013/11/exposure-metering/grecco-cloth-detail.png Dark Cloth Bright Subject %}
 
+<a name="setting-light-meter"></a>
 ## Setting Light Meter ##
 
 Pada contoh kasus _high dynamic range_ di atas, kita perlu menyesuaikan metering supaya bagian yang penting dari foto terukur dengan baik. Misalnya kalau kita membuat _portrait_ (foto yang ada orangnya), tentu bagian yang penting adalah orang, bukan backgroundnya. Dengan demikian, kita harus memastikan exposure di orang tepat, tidak peduli latarnya _clipping_.
@@ -194,6 +197,7 @@ Lebih detail mengenai berbagai mode metering bisa ditonton di video berikut
 
 Kapan dan bagaimana cara menggunakannya bisa dibaca [di penjelasan Ming Thein](http://blog.mingthein.com/2013/01/04/metering-part-two/).
 
+<a name="middle-grey"></a>
 ## Metering dan Middle Grey ##
 
 Bagaimanapun canggihnya light meter kamera, tetap saja dia tidak bisa mengerti apa yang sedang kita potret. Dia hanya bisa mengarahkan agar tingkat kecerahan ada di tengah-tengah. Tidak terlalu terang, tidak terlalu gelap. Dalam dunia fotografi, posisi tengah-tengah ini disebut middle grey.

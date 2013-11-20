@@ -28,6 +28,7 @@ Ada beberapa variabel lensa yang menentukan karakteristiknya:
 * stabilisasi
 * merek
 
+<a name="focal-length"></a>
 # Focal Length #
 
 Faktor utama yang membedakan lensa satu dan lainnya adalah focal length atau panjang fokus. Kita sering mendengar istilah lensa `35mm`, `50mm`, `18-55`, `70-200`, dan sebagainya. Angka-angka tersebut adalah panjang fokus lensa dalam satuan milimeter (mm).
@@ -47,6 +48,7 @@ Focal length lensa akan menentukan:
 * ukuran
 * harga
 
+<a name="perspektif"></a>
 ## Perspektif ##
 
 Perspektif di sini maksudnya adalah sudut pandang (angle of view) lensa. Lensa wide sudut pandangnya lebar sedangkan lensa tele sudut pandangnya sempit. Untuk melihat sudut pandang lensa, kita bisa gunakan [simulator yang disediakan Nikon](http://imaging.nikon.com/lineup/lens/simulator/). 
@@ -93,6 +95,7 @@ Kita gunakan wide angle biasanya untuk
 
 {% img http://farm6.staticflickr.com/5536/10663109326_760248c922_c.jpg %}
 
+<a name="distorsi"></a>
 ## Distorsi ##
 
 Lensa wide cenderung menimbulkan distorsi. Semakin wide, distorsi semakin besar. Perhatikan portrait yang diambil dengan lensa wide berikut
@@ -117,6 +120,7 @@ Lensa normal biasanya ukurannya kecil dan harganya murah. Semakin wide, diameter
 
 Semakin tele, lensa biasanya semakin panjang dan berat. Harga tentu saja menyesuaikan. Pada saat artikel ini ditulis, [lensa Nikon 600mm](http://www.bhinneka.com/products/sku00308618/nikon_af-s_600mm_f_4g_ed_vr.aspx) panjangnya hampir setengah meter, bobotnya setengah kilogram, dan harganya 115 juta rupiah.
 
+<a name="prime-vs-zoom"></a>
 ## Prime vs Zoom ##
 
 Ada lensa yang focal length bisa diubah-ubah, disebut dengan istilah lensa zoom. Ada juga yang hanya memiliki satu focal length, disebut dengan istilah lensa prime. 
@@ -160,6 +164,7 @@ Saya sendiri hanya punya lensa prime 35mm dan 85mm. Dua lensa ini sudah cukup un
 
 Sebetulnya hanya masalah penyesuaian cara kerja saja. Workflow memotret dengan prime berbeda dengan zoom. Kalau kita menggunakan prime, kita harus mengantisipasi momen, mengatur komposisi, dan mengambil posisi sebelum momen terjadi.
 
+<a name="aperture"></a>
 # Aperture #
 
 Aperture adalah lubang bukaan di lensa. 

@@ -29,6 +29,8 @@ Silahkan klik untuk penjelasan dalam bahasa Indonesia.
 
 <!--more-->
 
+<a name="iso"></a>
+
 ## ISO ##
 
 Kita ingin menggunakan ISO serendah mungkin, karena semakin tinggi ISO semakin jelek kualitas fotonya. Bandingkan foto berikut yang diambil dengan ISO 100
@@ -42,6 +44,8 @@ dengan foto berikut, diambil dengan ISO 1600
 Seperti kita bisa lihat, foto dengan ISO tinggi terlihat memiliki banyak _noise_.
 
 Walaupun demikian, seringkali kita tidak bisa menurunkan ISO sampai minimum, karena keterbatasan cahaya. Kalau nekat memakai ISO 100 di kondisi gelap, kita akan terpaksa membuka aperture lebar-lebar, atau menurunkan shutter speed. Seringkali kondisi ini tidak memungkinkan, seperti kita akan bahas.
+
+<a name="aperture"></a>
 
 ## Aperture ##
 
@@ -68,6 +72,7 @@ Seringkali kita tidak bisa membuka lensa lebar-lebar karena beberapa faktor, dia
 * lensa kita cuma bisa dibuka sampai `f/3.5`.
 * kita ingin objek dekat dan jauh sama tajamnya, misalnya ketika memotret banyak orang dalam 5 saf. Orang di saf depan dan belakang harus tajam
 
+<a name="shutter-speed"></a>
 
 ## Shutter Speed ##
 
@@ -95,6 +100,8 @@ Foto di atas dibuat dengan shutter speed 20 detik.
 Untuk membuat foto benda diam (contohnya produk atau potret orang berpose), shutter speed yang digunakan bebas berapa saja. Yang perlu diperhatikan adalah, kalau kamera kita pegang shutter speed jangan kurang dari 1/focal-length-lensa. Contohnya, bila kita menggunakan lensa 85mm, maka shutter speed jangan kurang dari 1/85 detik. Ini tujuannya untuk menghindari gambar blur karena tangan kita goyang pada saat memotret. Semakin panjang focal-length lensa, biasanya sudut pandangnya sempit. Sedikit gerakan saja, gesernya jauh. Ditambah lagi dengan faktor berat, semakin panjang focal-length, biasanya lensa semakin berat. Ini menyulitkan kita untuk memegang kamera dengan stabil.
 
 Bila kita ingin memotret anak-anak berlarian, shutter speed harus agak tinggi supaya mampu membekukan gerakan subjek. Saya biasa menggunakan shutter speed di atas 1/100 detik.
+
+<a name="stop"></a>
 
 ## Memahami stop ##
 
@@ -155,6 +162,8 @@ Jawabannya disisakan buat PR pembaca ;)
 
 Sepanjang [artikel pertama mengenai metering](http://rana.endy.muhardin.com/teknik/exposure-dan-metering/) dan artikel ini mengenai segitiga exposure, kita selalu menggunakan mode exposure manual. Sekarang setelah konsepnya kita pahami, kita bisa mencoba mode otomatis yang disediakan kamera.
 
+<a name="pasm"></a>
+
 ## Mode PASM ##
 
 Kamera DSLR umumnya dilengkapi dengan minimal empat pilihan exposure, yaitu:
@@ -165,6 +174,8 @@ Kamera DSLR umumnya dilengkapi dengan minimal empat pilihan exposure, yaitu:
 * Programmed Auto : tentukan ISO, kamera memilihkan kombinasi aperture dan shutter speed yang tepat. Pada waktu memutar dial, kamera akan menawarkan kombinasi lain. Misalnya pertama kita ditawari f/4 dan 1/200. Begitu kita putar, kita akan ditawari f/5.6 dan 1/100. Putar lagi, ditawari f/3.5 dan 1/400. Begitu seterusnya.
 
 Keempat pilihan ini biasa disebut dengan istilah mode PASM. Aperture Priority di Nikon simbolnya A, di Canon Av. Shutter priority di Nikon simbolnya S, di Canon Tv.
+
+<a name="compensation"></a>
 
 ### Exposure Compensation ###
 

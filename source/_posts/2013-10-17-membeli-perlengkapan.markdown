@@ -85,6 +85,8 @@ Harga total : 11434
 
 Mari kita bahas satu persatu.
 
+
+<a name="bodi"></a>
 # Bodi Kamera #
 
 ## Berbagai Jenis Kamera ##
@@ -164,6 +166,7 @@ Nah, sebetulnya megapixel ini sudah tidak terlalu penting lagi saat ini. Megapix
 
 Yang lebih penting sebetulnya adalah kemampuannya di ISO tinggi. Semakin bagus kualitasnya di ISO tinggi, semakin bisa kita gunakan dalam kondisi gelap. Inilah salah satu faktor pembeda antara kamera DSLR dengan kamera handphone. Dalam kondisi terang benderang di siang hari, perbedaan kualitas hasilnya tidak terlalu terlihat. Tapi coba bandingkan kualitas hasilnya di ruangan yang gelap atau malam hari. Seperti bumi dan langit.
 
+<a name="lensa"></a>
 # Lensa #
 
 Bila kita membeli DSLR entry-level biasanya sudah disertakan lensa bawaan, biasa disebut dengan istilah lensa kit. Lensa ini sudah sangat memadai. Hasil jepretannya bisa dilihat di foto Sate Padang Ampek Limo berikut.
@@ -182,8 +185,10 @@ Foto di atas diambil menggunakan lensa kit 18-70mm bawaan Nikon D70s.
 
 Kalau ada budget sisa, kita bisa membeli lensa prime 50mm yang memiliki bukaan f/1.8. Harganya relatif murah (Nikon 1,4 juta, Canon 1 juta). Walaupun murah, kemampuannya sudah sangat canggih. Lensa 50mm ini adalah lensa wajib yang umumnya pasti dimiliki oleh fotografer profesional. Saking populernya karena bagus dan murah, lensa ini memiliki julukan tersendiri, yaitu `nifty-fifty`.
 
-Membahas pilihan lensa panjang urusannya. Kita akan bahas lebih detail pada artikel yang lain. Untuk kali ini, cukuplah dua lensa saja yang saya rekomendasikan, lensa kit dan lensa 50mm f/1.8.
+Membahas pilihan lensa panjang urusannya. Kita akan bahas lebih detail pada [artikel yang lain](http://rana.endy.muhardin.com/gears/memahami-lensa/). Untuk kali ini, cukuplah dua lensa saja yang saya rekomendasikan, lensa kit dan lensa 50mm f/1.8.
 
+
+<a name="flash"></a>
 # Flash #
 
 Memotret dengan cahaya seadanya harus dikuasai dengan baik. Setelah mahir, kita dapat menambahkan sumber cahaya ekstra untuk menimbulkan berbagai efek kreatif dan mengatur mood foto. 
@@ -200,9 +205,20 @@ Oleh karena itu, flash harus dilepas dari kamera dan diletakkan di arah yang ber
 
 Flash bermerek harganya cukup mahal. Merek Nikon dan Canon berkisar 3-5 juta satu unit. Tapi jangan khawatir, flash buatan China harganya terjangkau dan kualitasnya memadai. YongNuo mengeluarkan flash YN-460 yang harganya 450 ribu. Kalau mau tampilan yang lebih profesional, bisa ambil YongNuo YN-560II seharga 670 ribu. Tambah sedikit lagi, YN-560III harganya 750 ribu sudah punya built-in receiver sehingga bisa sinkron dengan kamera tanpa trigger.
 
+<a name="trigger"></a>
 # Trigger #
 
 Penggunaan flash untuk efek kreatif biasanya menuntut kita untuk bisa menempatkan flash di mana saja, tidak hanya di atas kamera (on-camera flash). Untuk itu dibutuhkan suatu alat yang dinamakan `remote flash trigger`. Fungsinya supaya pada saat kita jepret kamera, flashnya ikut menyala. Bentuknya bisa dilihat di foto perlengkapan saya diatas, benda bulat hitam kecil yang ada sepasang.
+
+Ada beberapa metode untuk sinkronisasi kamera dan flash:
+
+* menggunakan kabel
+* menggunakan trigger berbasis cahaya. Trigger ini mendeteksi kalau ada flash lain yang menyala, dan dia akan ikut menyala.
+* menggunakan trigger berbasis gelombang radio. Trigger ini biasanya ada sepasang: transmitter (pemancar) dipasang di kamera, dan receiver (penerima) dipasang di flash.
+
+Masing-masing metode ada plus minusnya. Trigger kabel keuntungannya murah dan cepat (karena transmisi melalui kabel lebih cepat daripada gelombang radio), tapi ribet dan terbatas jaraknya. Masa kita mau tarik kabel sejauh 50 meter? Trigger cahaya keuntungannya cepat (sesuai kecepatan cahaya). Bahkan beberapa kamera dan flash sudah memiliki trigger cahaya built-in tanpa harus pasang alat. Kelemahannya, flash harus bisa melihat unit yang mengirim sinyal. Trigger cahaya akan mengalami kesulitan kalau dipakai dibalik tembok atau di kondisi siang yang terang. Trigger radio bisa bekerja di balik tembok maupun di siang terik, tapi kecepatannya lebih rendah daripada trigger cahaya ataupun kabel. Kalau kita bisa pakai shutter speed 1/200 atau bahkan 1/250 dengan trigger kabel dan cahaya, mungkin kita cuma bisa pakai 1/160 dengan trigger radio.
+
+Selanjutnya, kita hanya akan bahas trigger radio, yang paling fleksibel bisa digunakan di mana saja.
 
 Kita membutuhkan minimal dua unit trigger, satu untuk dipasang di kamera (transmitter), satu lagi dipasang di flash (receiver). Ada model trigger yang transmitter dan receivernya sama, bisa dipertukarkan. Istilahnya transceiver. Ada juga yang beda antara receiver dan transmitter.
 
@@ -216,6 +232,7 @@ Selain itu, trigger ini juga bisa berfungsi sebagai remote trigger untuk kamera.
 
 Dengan segala kecanggihan ini, berapa harganya?? Ternyata hanya **350 ribu sepasang**. Satu unit Pocket Wizard harganya sama dengan enam unit YongNuo RF-603.
 
+<a name="lightstand"></a>
 # Lightstand #
 
 Lightstand adalah tiang tempat kita menaruh flash. Kalau tidak punya lightstand, kita harus bawa teman untuk membantu memegang flash. Daripada kita mentraktir teman setiap sesi foto, akan lebih murah kalau kita beli saja lightstand seharga 200 ribuan. Kalau dibandingkan dengan traktiran fastfood setiap sesi, investasi ini akan balik modal dalam 2-3 kali sesi saja ;)
@@ -234,6 +251,7 @@ Payung berguna untuk memperbesar ukuran sumber cahaya. Bandingkan saja ukuran pa
 
 Contoh pemakaian payung bisa dibaca [di artikel ini](http://strobist.blogspot.com/2006/03/lighting-101-umbrellas.html).
 
+<a name="reflektor"></a>
 # Reflektor #
 
 Ini adalah pemantul cahaya yang bisa dilipat. Tersedia dalam berbagai ukuran. Pemantul ini memiliki lapisan yang bisa dibuka dan dibalik, sehingga memiliki lima jenis permukaan:
@@ -246,7 +264,7 @@ Ini adalah pemantul cahaya yang bisa dilipat. Tersedia dalam berbagai ukuran. Pe
 
 Kegunaannya tentu sesuai dengan namanya, yaitu memantulkan cahaya. Contoh pemakaiannya bisa disimak di video berikut, dimana foto bagus dapat dihasilkan dengan menggunakan kamera handphone dan reflektor.
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/o063wC_SNxo" frameborder="0" allowfullscreen></iframe>
+{% youtube o063wC_SNxo %}
 
 Reflektor harganya berkisar 200 ribuan.
 
