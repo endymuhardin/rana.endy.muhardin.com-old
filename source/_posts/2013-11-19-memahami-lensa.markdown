@@ -59,7 +59,7 @@ dan perspektif lensa tele
 
 {% img http://lh6.googleusercontent.com/-JwDPOYBP0Fo/Uotxv1GoUnI/AAAAAAAACSA/MjWnW4Qt5jU/s800/simulator-tele-angle.png %}
 
-Kita juga bisa menggeser-geser slider untuk mengubah focal length dan melihat efeknya terhadap sudut pandang.
+Di simulator tersebut, kita bisa menggeser-geser slider untuk mengubah focal length dan melihat efeknya terhadap sudut pandang.
 
 Selain masalah jauh dekat, dalam melihat perspektif kita juga mempertimbangkan faktor kompresi. Lensa tele akan membuat jarak subjek ke latar terlihat dekat. Sebaliknya, lensa wide akan membuat subjek terlihat jauh dari latar. Bandingkan foto dengan ukuran subjek yang sama jika dibuat dengan lensa tele berikut
 
@@ -107,12 +107,6 @@ Karena faktor distorsi tersebut, umumnya kita lebih memilih lensa tele untuk mem
 
 Lebih lanjut mengenai perspektif lensa, bisa disimak di video berikut:
 
-* Bagian pertama
-
-{% youtube HG-vPzrEONM %}
-
-* Bagian kedua
-
 {% youtube t3A3SnPFPk0 %}
 
 ## Ukuran dan Harga ##
@@ -145,7 +139,18 @@ Keunggulan lensa zoom :
 * tidak repot gonta-ganti lensa, sehingga lebih tenang dalam menangkap momen.
 * tidak perlu beli banyak lensa. Walaupun harga zoom lebih mahal, tapi bisa jadi lebih murah dibandingkan harus membeli beberapa lensa prime untuk mendapatkan beberapa focal length.
 
-Walaupun fleksibel, jangan sampai lensa zoom membuat Anda menjadi malas. Tentukan dulu perspektif dan komposisi yang diinginkan, barulah pilih focal length. Kesalahan yang umum dilakukan orang adalah mengambil posisi dulu, angkat kamera ke depan muka, baru membuat komposisi dengan zoom.
+Walaupun fleksibel, jangan sampai lensa zoom membuat Anda menjadi malas. Kesalahan yang umum dilakukan orang adalah mengambil posisi dulu, angkat kamera ke depan muka, baru membuat komposisi dengan zoom. Cara kerja seperti ini akan membuat foto kita berkualitas _snapshot_. Tentu keindahannya akan berbeda dengan foto yang direncanakan dan dipersiapkan dengan serius.
+
+Cara kerja yang lebih tepat adalah:
+
+1. Bayangkan komposisi yang diinginkan di imajinasi kita. Tentukan hubungan subjek dengan latarnya. Apakah kita ingin mengambil banyak latar? Apakah kita ingin membuat latar terlihat dekat dengan subjek?
+2. Tentukan focal length yang perspektifnya sesuai untuk membuat foto sesuai imajinasi kita di langkah sebelumnya. Untuk lensa prime, kita mungkin perlu mengganti lensa di tahap ini. Pengguna zoom tinggal memutar lensa ke focal length yang diinginkan.
+3. Ambil posisi yang sesuai dengan komposisi dan focal length yang dipilih.
+4. Terakhir, setting kamera sesuai keinginan, tunggu momen, jepret.
+
+Lebih jelasnya bisa disimak di video berikut.
+
+{% youtube HG-vPzrEONM %}
 
 ## Pilihan Pribadi ##
 
