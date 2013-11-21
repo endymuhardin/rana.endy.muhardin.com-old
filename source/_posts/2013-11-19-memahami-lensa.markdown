@@ -118,7 +118,7 @@ Lebih lanjut mengenai perspektif lensa, bisa disimak di video berikut:
 
 Lensa normal biasanya ukurannya kecil dan harganya murah. Semakin wide, diameter lensa biasanya semakin besar dan sulit membuatnya. Ini menyebabkan harganya menjadi mahal.
 
-Semakin tele, lensa biasanya semakin panjang dan berat. Harga tentu saja menyesuaikan. Pada saat artikel ini ditulis, [lensa Nikon 600mm](http://www.bhinneka.com/products/sku00308618/nikon_af-s_600mm_f_4g_ed_vr.aspx) panjangnya hampir setengah meter, bobotnya setengah kilogram, dan harganya 115 juta rupiah.
+Semakin tele, lensa biasanya semakin panjang dan berat. Harga tentu saja menyesuaikan. Pada saat artikel ini ditulis, [lensa Nikon 600mm](http://www.bhinneka.com/products/sku00308618/nikon_af-s_600mm_f_4g_ed_vr.aspx) panjangnya hampir setengah meter, bobotnya lima kilogram lebih, dan harganya 115 juta rupiah.
 
 <a name="prime-vs-zoom"></a>
 ## Prime vs Zoom ##
