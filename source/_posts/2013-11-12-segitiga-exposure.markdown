@@ -211,3 +211,15 @@ Kalau butuh referensi lebih lanjut, bisa tonton video berikut ini
 
 {% youtube KQw28-3LEU4 %}
 
+
+Supaya belajarnya lebih jelas dan tidak mengawang-awang, ada aplikasi simulator yang tersedia gratis di internet. 
+
+<iframe src="http://camerasim.com/embed/camera-simulator/" frameborder="0" width="550" height="570" allowfullscreen></iframe>
+
+Dia menyediakan dua mode belajar:
+
+* [tanpa penjelasan, tapi bisa mode ~~P~~ASM. Seperti yang saya embed di atas](http://camerasim.com/camera-simulator/)
+* [full manual dengan penjelasan](http://camerasim.com/slr-camera-explained/)
+
+
+
