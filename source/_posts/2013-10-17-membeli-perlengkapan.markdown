@@ -99,7 +99,7 @@ Jaman sekarang ada beberapa pilihan bodi kamera:
 
 Contoh produk
 
-* P&S : Nikon Coolpix P310, Canon PowerShot SX260, FujiFilm FinePix F660EXR
+* P&S : Nikon Coolpix P330, Canon PowerShot SX280, FujiFilm FinePix F660EXR
 * DSLR : Nikon D3100, Canon 1100D
 * Mirrorless : Sony Nex, Olympus Pen, FujiFilm X-Pro, Nikon 1
 
