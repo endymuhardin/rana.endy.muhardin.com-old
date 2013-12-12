@@ -268,8 +268,8 @@ Demikianlah berbagai teknik tentang penggunaan lighting. Tidak perlu galau denga
 
 Dan penguasaan teknik kontrol cahaya:
 
-* kontrol intensitas strobe dengan mengubah aperture, power lampu, dan jarak lampu-subjek-latar
 * kontrol intensitas ambient dengan mengubah shutter speed
+* kontrol intensitas strobe dengan mengubah power lampu, dan jarak lampu-subjek-latar
 * kontrol sifat bayangan dengan mengubah ukuran sumber cahaya (menggunakan softbox atau payung)
 * kontrol tempat jatuhnya highlight/shadow dengan mengatur penempatan sumber cahaya dan menggunakan reflektor, grid, snoot, gobo
 * kontrol warna dengan gel dan setting white balance
