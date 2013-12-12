@@ -56,8 +56,9 @@ Memotret dalam studio relatif lebih mudah, karena semua faktor bisa kita kendali
 Kita mulai dengan teknik dasar, bagaimana mengatur proporsi cahaya alami (ambient) dengan cahaya dari lampu (strobe). Konsep dasarnya tetap ada di [teknik metering](http://rana.endy.muhardin.com/teknik/exposure-dan-metering/) dan [pengaturan segitiga exposure](http://rana.endy.muhardin.com/teknik/segitiga-exposure/). Karena kita menggunakan flash, ada beberapa konsep tambahan:
 
 * ISO : mempengaruhi intensitas ambient **dan** strobe
-* Aperture : **hanya** mempengaruhi intensitas strobe
-* Shutter speed : **hanya** mempengaruhi intensitas ambient
+* Aperture : mempengaruhi intensitas ambient **dan** strobe
+* Jarak/Power strobe : **hanya** mempengaruhi intensitas **strobe**
+* Shutter speed : **hanya** mempengaruhi intensitas **ambient**
 
 Konsep di atas hanya berlaku kalau kita menggunakan setting manual di kamera dan manual juga di flash. Serba manual ini memudahkan kita untuk memahami cara kerjanya. Kalau nanti sudah paham, barulah kita gunakan mode otomatis (Aperture Priority dan TTL Flash) untuk mempercepat proses.
 
