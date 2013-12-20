@@ -146,6 +146,29 @@ Satu contoh lagi.
 
 Perhatikan bahwa pandangan mata kita akan tertarik pada penjual ikan yang tajam dan berada di depan. Setelah itu berlanjut ke orang yang diterangi lampu biru. Kemudian pindah ke orang berbaju merah yang blur.
 
+<a name="isolation-merging"></a>
+# Merging #
+
+Setelah bersusah payah memisahkan subjek dengan berbagai cara di atas, kita juga harus menghindari terjadinya _merging_, yaitu subjek tercampur dengan benda lain yang tidak diinginkan. Merging bisa terjadi dalam beberapa bentuk diantaranya tumpukan dan clipping.
+
+Contoh tumpukan yang paling populer adalah pohon tumbuh di kepala orang seperti ini
+
+{% img http://lh5.googleusercontent.com/-7gO-8X5pM_g/UrRaVJqSS4I/AAAAAAAADSI/yttFv2fAN4o/w265-h400-no/DSC_8765.JPG %}
+
+Contoh lain, pada foto berikut antar orang saling bertumpukan sehingga tidak jelas mana subjek ataupun maksud dari fotonya.
+
+{% img http://lh3.googleusercontent.com/-1QG5OVwY4n4/UqRu0kwXmLI/AAAAAAAACx8/p9NSaWqujeU/w909-h602-no/DSC_8728.JPG %}
+
+Bandingkan dengan foto berikut, yang walaupun masih terjadi tumpukan, tapi masing-masing orang masih bisa dipisahkan dengan jelas.
+
+{% img http://farm8.staticflickr.com/7449/11268859536_a120345143_b_d.jpg %}
+
+Selanjutnya, clipping. Yaitu dynamic range tidak lagi mampu menampung data karena perbedaan terang-gelap terlalu jauh. Lihat contoh berikut, dimana jilbab putih tidak bisa dibedakan lagi dengan langitnya.
+
+{% img http://rana.endy.muhardin.com/images/2013/11/exposure-metering/highlight-clipping.jpg %}
+
+Lebih detail tentang dynamic range, clipping, dan cara mengatasinya bisa disimak [di artikel terdahulu](http://rana.endy.muhardin.com/teknik/exposure-dan-metering/).
+
 # Kesimpulan #
 
 Kita tentu ingin foto yang kita buat menarik perhatian pemirsa dan apa yang ingin kita sampaikan bisa ditangkap dengan jelas oleh yang melihatnya. Untuk itu, kita bisa memainkan beberapa variabel berikut untuk mendapatkan _subject isolation_:
