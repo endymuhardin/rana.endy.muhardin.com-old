@@ -112,7 +112,7 @@ Dalam frame di atas, kita melihat ada dua orang. Kita bisa menentukan bahwa subj
 <a name="isolation-by-light"></a>
 # Menggunakan Cahaya #
 
-Teknik terakhir ini relatif sulit, karena mengharuskan kita untuk mengasah kepekaan terhadap cahaya di sekeliling kita. Walaupun demikian, bila kita bisa menguasai teknik ini, foto kita akan terlihat dibuat secara teliti dan menggunakan teknik tinggi.
+Teknik terakhir ini relatif sulit, karena mengharuskan kita untuk mengasah kepekaan terhadap cahaya di sekeliling kita. Kepekaan ini harus dilatih terus menerus supaya semakin tajam.
 
 Mata manusia secara alami akan tertarik ke bagian yang lebih terang dalam foto. Oleh karena itu, untuk menonjolkan subjek utama, kita buat dia menjadi lebih terang.
 
@@ -140,6 +140,12 @@ Pada foto di atas, langitnya terlihat terlalu terang, sehingga mengalihkan perha
 
 Nah, terlihat lebih baik kan? Sekarang subjek utama terlihat dengan jelas, dan latarnya berperan sebagai pemanis dan pendukung saja. Berbeda dengan foto sebelumnya dimana latar terlihat sangat dominan sehingga mengganggu subjek utama.
 
+Satu contoh lagi. 
+
+{% img http://farm3.staticflickr.com/2871/11324666586_0f36aae35a_b_d.jpg %}
+
+Perhatikan bahwa pandangan mata kita akan tertarik pada penjual ikan yang tajam dan berada di depan. Setelah itu berlanjut ke orang yang diterangi lampu biru. Kemudian pindah ke orang berbaju merah yang blur.
+
 # Kesimpulan #
 
 Kita tentu ingin foto yang kita buat menarik perhatian pemirsa dan apa yang ingin kita sampaikan bisa ditangkap dengan jelas oleh yang melihatnya. Untuk itu, kita bisa memainkan beberapa variabel berikut untuk mendapatkan _subject isolation_:
@@ -148,5 +154,7 @@ Kita tentu ingin foto yang kita buat menarik perhatian pemirsa dan apa yang ingi
 * warna
 * posisi dan ukuran
 * cahaya
+
+Variabel mana yang kita gunakan ditentukan situasi dan kondisi pada saat kita mengambil foto. Pada waktu kita hanya memegang kamera handphone, maka tentu sulit bagi kita untuk memburamkan latar belakang. Kita harus pilih cara lain misalnya dengan menggunakan cahaya ataupun posisi subjek. Bila cahayanya pun kurang mendukung, kita bisa memindahkan subjek ke tempat yang warna latarnya komplementer dengan pakaian subjek, sehingga subjek bisa terlihat dominan.
 
 Dan yang paling penting dari semuanya, sering-seringlah berlatih agar teknik-teknik menjadi refleks dan bisa digunakan dengan cepat tanpa harus banyak berpikir.
