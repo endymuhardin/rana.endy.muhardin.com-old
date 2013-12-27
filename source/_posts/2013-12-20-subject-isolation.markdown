@@ -163,11 +163,32 @@ Bandingkan dengan foto berikut, yang walaupun masih terjadi tumpukan, tapi masin
 
 {% img http://farm8.staticflickr.com/7449/11268859536_a120345143_b_d.jpg %}
 
+Merging tidak selalu untuk objek yang besar. Kadangkala kabel atau tali bisa juga mengganggu, seperti ini
+
+{% img http://lh6.googleusercontent.com/-OYm7u98ftIA/UrzlCS7oCtI/AAAAAAAADTo/Jg5mxrJl6Nw/w869-h576-no/DSC_9498.JPG %}
+
+Dengan bergeser sedikit ke kanan, kita bisa mengurangi merging. Berikut hasilnya
+
+{% img http://lh4.googleusercontent.com/-XYRCelCZnEs/UrzlBfjTtBI/AAAAAAAADTc/NQepG2DqiHw/w909-h541-no/DSC_9497.JPG %}
+
+
+Atau kita bisa menunggu subjek berpindah ke tempat yang lebih _clean_ sehingga bebas dari objek yang mengganggu
+
+{% img http://lh5.googleusercontent.com/-Q_HHqTTut5g/UrzlBQDL84I/AAAAAAAADTY/3ckPTKW8lCc/w869-h576-no/DSC_9496.JPG %}
+
+Ketiga foto di atas diambil di tempat yang sama. Hanya fotografer dan subjeknya saja yang bergeser sedikit (kurang dari satu meter). Perhatikan bahwa hanya dengan bergeser sedikit saja, hasil foto kita bisa menjadi jauh lebih baik.
+
 Selanjutnya, clipping. Yaitu dynamic range tidak lagi mampu menampung data karena perbedaan terang-gelap terlalu jauh. Lihat contoh berikut, dimana jilbab putih tidak bisa dibedakan lagi dengan langitnya.
 
 {% img http://rana.endy.muhardin.com/images/2013/11/exposure-metering/highlight-clipping.jpg %}
 
 Lebih detail tentang dynamic range, clipping, dan cara mengatasinya bisa disimak [di artikel terdahulu](http://rana.endy.muhardin.com/teknik/exposure-dan-metering/).
+
+Berikut kasus yang tidak se-ekstrim clipping. Di foto berikut, perbedaan antara subjek dan latar tidak terlalu signifikan (sama-sama gelap), sehingga tidak menghasilkan isolation yang cukup.
+
+{% img http://lh6.googleusercontent.com/-VdtXRpQwXsY/UrzlBHOjlGI/AAAAAAAADTg/nb_BmLh0S0U/w908-h408-no/DSC_9375.JPG %}
+
+Solusinya, kita bisa menambahkan flash di rambut subjek supaya terang dan terpisah dari latarnya.
 
 # Kesimpulan #
 
