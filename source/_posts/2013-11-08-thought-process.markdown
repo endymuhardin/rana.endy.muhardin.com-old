@@ -21,3 +21,7 @@ Di artikel ini, saya akan membuat daftar link yang membahas proses berpikir (_th
 1. [Foto fans serial TV Heroes. Oleh David Hobby, Mr. Strobist](http://strobist.blogspot.com/2007/04/on-assignment-hero-fan.html)
 2. [Greg Heisler memotret di kafe gelap](http://strobist.blogspot.com/2013/09/my-week-with-heisler-pt-2.html)
 3. [Greg Heisler memotret di siang hari](http://strobist.blogspot.com/2013/10/my-week-with-heisler-pt-3.html)
+4. Mr. Strobist membahas [persiapan photoshoot](http://strobist.blogspot.com/2009/12/on-assignment-what-me-worry.html) dan [kegiatan pada saat photoshoot](http://strobist.blogspot.com/2010/02/on-assignment-trip-jennings.html)
+5. Mr. Strobist memotret arena panjat tebing [bagian pertama](http://strobist.blogspot.com/2010/04/on-assignment-earth-treks-pt-1.html) dan [bagian kedua](http://strobist.blogspot.com/2010/04/on-assignment-earth-treks-pt-2.html)
+6. [Hal-hal yang harus dipertimbangkan pada saat mendapat assignment](http://strobist.blogspot.com/2010/01/twenty-questions.html)
+7. [Analisa situasi, manajemen waktu, dan problem solving](http://strobist.blogspot.com/2006/07/on-assignment-pool-portrait.html)
