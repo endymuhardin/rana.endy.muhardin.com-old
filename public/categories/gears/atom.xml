@@ -4,7 +4,7 @@
   <title><![CDATA[Category: gears | 12" behind the camera]]></title>
   <link href="http://rana.endy.muhardin.com/categories/gears/atom.xml" rel="self"/>
   <link href="http://rana.endy.muhardin.com/"/>
-  <updated>2014-01-27T13:29:15+07:00</updated>
+  <updated>2014-03-10T11:42:16+07:00</updated>
   <id>http://rana.endy.muhardin.com/</id>
   <author>
     <name><![CDATA[Endy Muhardin]]></name>
@@ -81,21 +81,21 @@
 
 <p>Kita bisa lihat perspektif lensa wide</p>
 
-<p><img class="<a" src="href="http://lh4.googleusercontent.com/-aqquycWCS18/Uotxw_AfogI/AAAAAAAACSI/7xO7DyGJpfw/s800/simulator-wide-angle.png">http://lh4.googleusercontent.com/-aqquycWCS18/Uotxw_AfogI/AAAAAAAACSI/7xO7DyGJpfw/s800/simulator-wide-angle.png</a>"></p>
+<p>{% img <a href="http://lh4.googleusercontent.com/-aqquycWCS18/Uotxw_AfogI/AAAAAAAACSI/7xO7DyGJpfw/s800/simulator-wide-angle.png">http://lh4.googleusercontent.com/-aqquycWCS18/Uotxw_AfogI/AAAAAAAACSI/7xO7DyGJpfw/s800/simulator-wide-angle.png</a> %}</p>
 
 <p>dan perspektif lensa tele</p>
 
-<p><img class="<a" src="href="http://lh6.googleusercontent.com/-JwDPOYBP0Fo/Uotxv1GoUnI/AAAAAAAACSA/MjWnW4Qt5jU/s800/simulator-tele-angle.png">http://lh6.googleusercontent.com/-JwDPOYBP0Fo/Uotxv1GoUnI/AAAAAAAACSA/MjWnW4Qt5jU/s800/simulator-tele-angle.png</a>"></p>
+<p>{% img <a href="http://lh6.googleusercontent.com/-JwDPOYBP0Fo/Uotxv1GoUnI/AAAAAAAACSA/MjWnW4Qt5jU/s800/simulator-tele-angle.png">http://lh6.googleusercontent.com/-JwDPOYBP0Fo/Uotxv1GoUnI/AAAAAAAACSA/MjWnW4Qt5jU/s800/simulator-tele-angle.png</a> %}</p>
 
 <p>Di simulator tersebut, kita bisa menggeser-geser slider untuk mengubah focal length dan melihat efeknya terhadap sudut pandang.</p>
 
 <p>Selain masalah jauh dekat, dalam melihat perspektif kita juga mempertimbangkan faktor kompresi. Lensa tele akan membuat jarak subjek ke latar terlihat dekat. Sebaliknya, lensa wide akan membuat subjek terlihat jauh dari latar. Bandingkan foto dengan ukuran subjek yang sama jika dibuat dengan lensa tele berikut</p>
 
-<p><img class="<a" src="href="http://lh4.googleusercontent.com/-ImuGO1_drY4/UotxqBVjjwI/AAAAAAAACRw/2zeQa7UtoN4/s800/DSC_7395.JPG">http://lh4.googleusercontent.com/-ImuGO1_drY4/UotxqBVjjwI/AAAAAAAACRw/2zeQa7UtoN4/s800/DSC_7395.JPG</a>"></p>
+<p>{% img <a href="http://lh4.googleusercontent.com/-ImuGO1_drY4/UotxqBVjjwI/AAAAAAAACRw/2zeQa7UtoN4/s800/DSC_7395.JPG">http://lh4.googleusercontent.com/-ImuGO1_drY4/UotxqBVjjwI/AAAAAAAACRw/2zeQa7UtoN4/s800/DSC_7395.JPG</a> %}</p>
 
 <p>dan foto yang sama, dibuat menggunakan lensa wide</p>
 
-<p><img class="<a" src="href="http://lh4.googleusercontent.com/-lHpAXtPGR1Y/Uotxtfve8kI/AAAAAAAACR4/RHvHd6AFNoI/s800/DSC_7398.JPG">http://lh4.googleusercontent.com/-lHpAXtPGR1Y/Uotxtfve8kI/AAAAAAAACR4/RHvHd6AFNoI/s800/DSC_7398.JPG</a>"></p>
+<p>{% img <a href="http://lh4.googleusercontent.com/-lHpAXtPGR1Y/Uotxtfve8kI/AAAAAAAACR4/RHvHd6AFNoI/s800/DSC_7398.JPG">http://lh4.googleusercontent.com/-lHpAXtPGR1Y/Uotxtfve8kI/AAAAAAAACR4/RHvHd6AFNoI/s800/DSC_7398.JPG</a> %}</p>
 
 <p>Perhatikan ukuran latar belakang, dan juga sudut pandang di kiri dan kanan subjek. Mendekatnya latar ke subjek biasa disebut dengan istilah kompresi perspektif (perspective compression). Sebaliknya, latar yang jauh dari subjek disebut dengan istilah kedalaman perspektif (perspective depth).</p>
 
@@ -108,14 +108,14 @@
 </ul>
 
 
-<p><img class="<a" src="href="http://farm8.staticflickr.com/7445/10512710054_2d36c85f7e_c.jpg">http://farm8.staticflickr.com/7445/10512710054_2d36c85f7e_c.jpg</a>"></p>
+<p>{% img <a href="http://farm8.staticflickr.com/7445/10512710054_2d36c85f7e_c.jpg">http://farm8.staticflickr.com/7445/10512710054_2d36c85f7e_c.jpg</a> %}</p>
 
 <ul>
 <li>ingin menyederhanakan portrait supaya latarnya tidak terlalu <em>ramai</em> dan mengganggu subjek. Dengan sudut pandang sempit, berarti semakin sedikit latar yang masuk ke dalam foto, sehingga lebih mudah <em>membuang</em> benda-benda yang mengganggu</li>
 </ul>
 
 
-<p><img class="<a" src="href="http://farm3.staticflickr.com/2839/10129026945_2bb85b5caf_c.jpg">http://farm3.staticflickr.com/2839/10129026945_2bb85b5caf_c.jpg</a>"></p>
+<p>{% img <a href="http://farm3.staticflickr.com/2839/10129026945_2bb85b5caf_c.jpg">http://farm3.staticflickr.com/2839/10129026945_2bb85b5caf_c.jpg</a> %}</p>
 
 <p>Kita gunakan wide angle biasanya untuk</p>
 
@@ -124,14 +124,14 @@
 </ul>
 
 
-<p><img class="<a" src="href="http://lh5.googleusercontent.com/-SRcEW4-YCRI/Uoi-mguljrI/AAAAAAAACNQ/WXTpJYpDiL4/s800/DSC_7805.JPG">http://lh5.googleusercontent.com/-SRcEW4-YCRI/Uoi-mguljrI/AAAAAAAACNQ/WXTpJYpDiL4/s800/DSC_7805.JPG</a>"></p>
+<p>{% img <a href="http://lh5.googleusercontent.com/-SRcEW4-YCRI/Uoi-mguljrI/AAAAAAAACNQ/WXTpJYpDiL4/s800/DSC_7805.JPG">http://lh5.googleusercontent.com/-SRcEW4-YCRI/Uoi-mguljrI/AAAAAAAACNQ/WXTpJYpDiL4/s800/DSC_7805.JPG</a> %}</p>
 
 <ul>
 <li>membuat environmental portrait (portrait orang beserta lingkungannya). Portrait seperti ini lebih menarik daripada portrait dengan latar sederhana, karena lebih banyak cerita dalam satu frame foto</li>
 </ul>
 
 
-<p><img class="<a" src="href="http://farm6.staticflickr.com/5536/10663109326_760248c922_c.jpg">http://farm6.staticflickr.com/5536/10663109326_760248c922_c.jpg</a>"></p>
+<p>{% img <a href="http://farm6.staticflickr.com/5536/10663109326_760248c922_c.jpg">http://farm6.staticflickr.com/5536/10663109326_760248c922_c.jpg</a> %}</p>
 
 <p><a name="distorsi"></a></p>
 
@@ -139,32 +139,17 @@
 
 <p>Lensa wide cenderung menimbulkan distorsi. Semakin wide, distorsi semakin besar. Perhatikan portrait yang diambil dengan lensa wide berikut</p>
 
-<p><img class="<a" src="href="http://lh6.googleusercontent.com/-Qe2V_bRWEqI/UoWVppAqbNI/AAAAAAAACFA/GscR9Na4Vvs/wide-angle-low-iso.JPG">http://lh6.googleusercontent.com/-Qe2V_bRWEqI/UoWVppAqbNI/AAAAAAAACFA/GscR9Na4Vvs/wide-angle-low-iso.JPG</a>"></p>
+<p>{% img <a href="http://lh6.googleusercontent.com/-Qe2V_bRWEqI/UoWVppAqbNI/AAAAAAAACFA/GscR9Na4Vvs/wide-angle-low-iso.JPG">http://lh6.googleusercontent.com/-Qe2V_bRWEqI/UoWVppAqbNI/AAAAAAAACFA/GscR9Na4Vvs/wide-angle-low-iso.JPG</a> %}</p>
 
 <p>dan foto berikut dengan komposisi mirip tapi focal length berbeda</p>
 
-<p><img class="<a" src="href="http://lh5.googleusercontent.com/-b5AT_D1Ic34/UoWVmQy6rzI/AAAAAAAACFA/FyT6TRTPbk8/tele-angle-low-iso.JPG">http://lh5.googleusercontent.com/-b5AT_D1Ic34/UoWVmQy6rzI/AAAAAAAACFA/FyT6TRTPbk8/tele-angle-low-iso.JPG</a>"></p>
+<p>{% img <a href="http://lh5.googleusercontent.com/-b5AT_D1Ic34/UoWVmQy6rzI/AAAAAAAACFA/FyT6TRTPbk8/tele-angle-low-iso.JPG">http://lh5.googleusercontent.com/-b5AT_D1Ic34/UoWVmQy6rzI/AAAAAAAACFA/FyT6TRTPbk8/tele-angle-low-iso.JPG</a> %}</p>
 
 <p>Karena faktor distorsi tersebut, umumnya kita lebih memilih lensa tele untuk membuat foto orang, supaya ukuran tubuhnya proporsional. Tidak menjadi <em>Hobbit</em> seperti pada foto di atas.</p>
 
 <p>Lebih lanjut mengenai perspektif lensa, bisa disimak di video berikut:</p>
 
-<p>
-<div class="ratio-4-3 embed-video-container" onclick="var myAnchor = document.getElementById('t3A3SnPFPk0');var tmpDiv = document.createElement('div');tmpDiv.innerHTML = '&lt;iframe style=&quot;vertical-align:top;width:100%;height:100%;position:absolute;&quot; src=&quot;http://www.youtube.com/embed/t3A3SnPFPk0?autoplay=1&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;';myAnchor.parentNode.replaceChild(tmpDiv.firstChild, myAnchor);return false;" title="click here to play">
-<a class="youtube-lazy-link" style="width:100%;height:100%;background:#000 url(http://i2.ytimg.com/vi/t3A3SnPFPk0/0.jpg) center center no-repeat;background-size:contain;position:absolute" href="http://www.youtube.com/watch?v=t3A3SnPFPk0" id="t3A3SnPFPk0" onclick="return false;">
-<div class="youtube-lazy-link-div"></div>
-<div class="youtube-lazy-link-info">Photography Tips - Focal Length Changes 3 Things - Focal Length Explained 2</div>
-</a>
-<div class="video-info" >The second in our focal length explained series. The focal length of your lenses is a treasure trove of creativity. Just by zooming in or out you change focal length and as you do you alter your field of view, depth of field and perspective at the same time. By understanding how focal length changes the way an image looks - you can begin using the effect creatively for mor dynamic compositions and dramatic images.
-
-When I learnt this (and trust me - it took a while and a lot of practise) my image making leapt forward in leaps and bounds. Now I use these techniques everyday in my work as a pro photographer. So what am I on about....?
-
-Field of view is how much a lens includes from side to side, up and down. A short focal length lens has a very wide field of view. A long lens has a very narrow field of view. Depth of field is how much of your image is sharp moving front to back (depth). A wide (short) lens inherrantly has a lot of depth of field whilst a long focal length lens has very little. And last but by no means least is perspective. This is the way the magnification of different length lenses makes things 'stack up' in the picture.
-
-I could ramble for ages about this - just watch the video and go practise. For more about focal length and how to exploit it take a look at 'Focal Length Explained' on our site http://www.photographycourses.biz/focal_length_explained.html</div>
-</div>
-
-</p>
+<p>{% youtube t3A3SnPFPk0 %}</p>
 
 <h2>Ukuran dan Harga</h2>
 
@@ -218,22 +203,7 @@ I could ramble for ages about this - just watch the video and go practise. For m
 
 <p>Lebih jelasnya bisa disimak di video berikut.</p>
 
-<p>
-<div class="ratio-4-3 embed-video-container" onclick="var myAnchor = document.getElementById('HG-vPzrEONM');var tmpDiv = document.createElement('div');tmpDiv.innerHTML = '&lt;iframe style=&quot;vertical-align:top;width:100%;height:100%;position:absolute;&quot; src=&quot;http://www.youtube.com/embed/HG-vPzrEONM?autoplay=1&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;';myAnchor.parentNode.replaceChild(tmpDiv.firstChild, myAnchor);return false;" title="click here to play">
-<a class="youtube-lazy-link" style="width:100%;height:100%;background:#000 url(http://i2.ytimg.com/vi/HG-vPzrEONM/0.jpg) center center no-repeat;background-size:contain;position:absolute" href="http://www.youtube.com/watch?v=HG-vPzrEONM" id="HG-vPzrEONM" onclick="return false;">
-<div class="youtube-lazy-link-div"></div>
-<div class="youtube-lazy-link-info">Photography Tip - Don't zoom - MOVE! Focal Length Explained</div>
-</a>
-<div class="video-info" >The first tip in our Focal length explained series. The best 'zoom' lens is your feet! Why? Because changing focal length on your lens also changes how your photo will look. So once you know in what way different focal lengths (or zooms) will affect your images - you can begin choosing a zoom setting because of creative reasons rather than simply zooming in and out hoping it'll look good.
-
-Obviously as you increase focal length (zoom) magnification makes everything come closer - and this is where your feet come in. As you increase length you may have to move back depending on what the subject of your image is.
-
-In this video I'm going to take the exact same portrait of Tasha over and over again at different focal lengths, starting at 10mm and ending at 500mm. BUT I'm being very carefull to compose the picture identically each time I change my focal length. The impact on the finished image is extraordinary - watch for yourself and you'll see what I mean.
-
-We have loads of good stuff like this on our website - and our Photography DVD makes a fab photography gift or a great place to start learning about your DSLR camera. http://www.photographycourses.biz/photography_dvd.html</div>
-</div>
-
-</p>
+<p>{% youtube HG-vPzrEONM %}</p>
 
 <h2>Pilihan Pribadi</h2>
 
@@ -252,11 +222,11 @@ Nilai aperture dinyatakan dalam <code>f/</code>, misalnya <code>f/2</code>, <cod
 
 <p>Sebagai ilustrasi, berikut adalah lensa 85mm yang dibuka di <code>f/2</code></p>
 
-<p><img class="<a" src="href="http://lh4.googleusercontent.com/-l5bb9NAaEZc/UoWVih_0y-I/AAAAAAAACFA/iXhUSGddndk/s800/bukaan-besar.JPG">http://lh4.googleusercontent.com/-l5bb9NAaEZc/UoWVih_0y-I/AAAAAAAACFA/iXhUSGddndk/s800/bukaan-besar.JPG</a>"></p>
+<p>{% img <a href="http://lh4.googleusercontent.com/-l5bb9NAaEZc/UoWVih_0y-I/AAAAAAAACFA/iXhUSGddndk/s800/bukaan-besar.JPG">http://lh4.googleusercontent.com/-l5bb9NAaEZc/UoWVih_0y-I/AAAAAAAACFA/iXhUSGddndk/s800/bukaan-besar.JPG</a> %}</p>
 
 <p>Bandingkan dengan lensa yang sama, dibuka di <code>f/8</code></p>
 
-<p><img class="<a" src="href="http://lh4.googleusercontent.com/-h33bvAyMEt0/UoWVibtlY9I/AAAAAAAACFA/H13YJYIcx7Y/s800/bukaan-kecil.JPG">http://lh4.googleusercontent.com/-h33bvAyMEt0/UoWVibtlY9I/AAAAAAAACFA/H13YJYIcx7Y/s800/bukaan-kecil.JPG</a>"></p>
+<p>{% img <a href="http://lh4.googleusercontent.com/-h33bvAyMEt0/UoWVibtlY9I/AAAAAAAACFA/H13YJYIcx7Y/s800/bukaan-kecil.JPG">http://lh4.googleusercontent.com/-h33bvAyMEt0/UoWVibtlY9I/AAAAAAAACFA/H13YJYIcx7Y/s800/bukaan-kecil.JPG</a> %}</p>
 
 <p>Aperture mempengaruhi <em>depth-of-field</em>.</p>
 
@@ -264,11 +234,11 @@ Nilai aperture dinyatakan dalam <code>f/</code>, misalnya <code>f/2</code>, <cod
 
 <p>Depth of field adalah ruang tajam, yaitu jarak terdekat dan terjauh (dari kamera) dimana gambarnya masih tajam. Coba bandingkan bukaan <code>f/2</code> berikut</p>
 
-<p><img class="<a" src="href="http://lh5.googleusercontent.com/-F635M7_2x3o/UoWVkgOMf4I/AAAAAAAACFA/h8_rVXaH0Yg/s800/shallow-dof.JPG">http://lh5.googleusercontent.com/-F635M7_2x3o/UoWVkgOMf4I/AAAAAAAACFA/h8_rVXaH0Yg/s800/shallow-dof.JPG</a>"></p>
+<p>{% img <a href="http://lh5.googleusercontent.com/-F635M7_2x3o/UoWVkgOMf4I/AAAAAAAACFA/h8_rVXaH0Yg/s800/shallow-dof.JPG">http://lh5.googleusercontent.com/-F635M7_2x3o/UoWVkgOMf4I/AAAAAAAACFA/h8_rVXaH0Yg/s800/shallow-dof.JPG</a> %}</p>
 
 <p>dengan bukaan <code>f/8</code></p>
 
-<p><img class="<a" src="href="https://lh6.googleusercontent.com/-SWeVwN2NCDs/UoWVsrXB6cI/AAAAAAAACFA/U-1N9c0Luc0/s800/wide-dof.JPG">https://lh6.googleusercontent.com/-SWeVwN2NCDs/UoWVsrXB6cI/AAAAAAAACFA/U-1N9c0Luc0/s800/wide-dof.JPG</a>"></p>
+<p>{% img <a href="https://lh6.googleusercontent.com/-SWeVwN2NCDs/UoWVsrXB6cI/AAAAAAAACFA/U-1N9c0Luc0/s800/wide-dof.JPG">https://lh6.googleusercontent.com/-SWeVwN2NCDs/UoWVsrXB6cI/AAAAAAAACFA/U-1N9c0Luc0/s800/wide-dof.JPG</a> %}</p>
 
 <h2>Ukuran dan Harga</h2>
 
@@ -560,7 +530,7 @@ Bila budget Anda <em>unlimited</em>, tidak perlu membaca artikel ini. Silahkan l
 
 <p>Ada satu fitur yang wajib dimiliki kamera bila ingin kita gunakan untuk belajar, yaitu mode setting manual. Tanpa mode ini, kita tidak bisa mengatur kamera secara maksimal. Misalnya foto <em>long exposure</em> seperti ini tidak bisa dibuat kalau settingnya tidak manual.</p>
 
-<p><img src="/images/2013/10/membeli/long-exposure.jpg" title="&lsquo;Long Exposure&rsquo;" ></p>
+<p>{% img /images/2013/10/membeli/long-exposure.jpg &lsquo;Long Exposure&rsquo; %}</p>
 
 <h2>Tips dan Strategi</h2>
 
@@ -584,15 +554,15 @@ Bila budget Anda <em>unlimited</em>, tidak perlu membaca artikel ini. Silahkan l
 
 <p>Bila kita membeli DSLR entry-level biasanya sudah disertakan lensa bawaan, biasa disebut dengan istilah lensa kit. Lensa ini sudah sangat memadai. Hasil jepretannya bisa dilihat di foto Sate Padang Ampek Limo berikut.</p>
 
-<p><img src="/images/2013/10/membeli/sate-ampek-limo.jpg" title="Sate Ampek Limo" ></p>
+<p>{% img /images/2013/10/membeli/sate-ampek-limo.jpg Sate Ampek Limo %}</p>
 
 <p>Keterbatasan lensa ini adalah bukaan diafragma yang relatif kecil, sehingga mengurangi kemampuan di cahaya minim (misalnya dalam ruangan atau malam hari) dan memburamkan (blur) latar belakang. Foto berikut ini sulit dilakukan dengan lensa kit, karena ruangannya gelap dan saya perlu memisahkan subjek utama (orang) dengan latar belakang menggunakan teknik ruang tajam (<code>depth of field</code>). Kedua hal ini (gelap dan ruang tajam) membutuhkan bukaan diafragma yang besar.</p>
 
-<p><img src="/images/2013/10/membeli/endy-mag-1.jpg" title="Endy" ></p>
+<p>{% img /images/2013/10/membeli/endy-mag-1.jpg Endy %}</p>
 
 <p>Walaupun demikian, tidak perlu berkecil hati. Justru dengan keterbatasan bukaan kecil kita bisa mengasah kemampuan komposisi kita. Genre fotografi tertentu seperti <code>landscape</code>(pemandangan alam), <code>street photography</code> atau <code>environmental portrait</code> justru membutuhkan bukaan yang kecil.</p>
 
-<p><img src="/images/2013/10/membeli/becak.jpg" title="Becak" ></p>
+<p>{% img /images/2013/10/membeli/becak.jpg Becak %}</p>
 
 <p>Foto di atas diambil menggunakan lensa kit 18-70mm bawaan Nikon D70s.</p>
 
@@ -606,7 +576,7 @@ Bila budget Anda <em>unlimited</em>, tidak perlu membaca artikel ini. Silahkan l
 
 <p>Memotret dengan cahaya seadanya harus dikuasai dengan baik. Setelah mahir, kita dapat menambahkan sumber cahaya ekstra untuk menimbulkan berbagai efek kreatif dan mengatur mood foto.</p>
 
-<p><img src="/images/2013/10/membeli/gadget.jpg" title="Berebut Gadget" ></p>
+<p>{% img /images/2013/10/membeli/gadget.jpg Berebut Gadget %}</p>
 
 <p>Selain itu, dengan adanya flash kita jadi bisa mendapatkan hasil foto sesuai keinginan kita, bagaimanapun situasi lingkungan. Sebagai contoh, foto di atas dibuat siang hari dalam ruangan yang terang. Dengan penggunaan flash yang tepat, ruangan terang bisa dibuat menjadi gelap.</p>
 
@@ -686,31 +656,7 @@ Bila budget Anda <em>unlimited</em>, tidak perlu membaca artikel ini. Silahkan l
 
 <p>Kegunaannya tentu sesuai dengan namanya, yaitu memantulkan cahaya. Contoh pemakaiannya bisa disimak di video berikut, dimana foto bagus dapat dihasilkan dengan menggunakan kamera handphone dan reflektor.</p>
 
-<p>
-<div class="ratio-4-3 embed-video-container" onclick="var myAnchor = document.getElementById('o063wC_SNxo');var tmpDiv = document.createElement('div');tmpDiv.innerHTML = '&lt;iframe style=&quot;vertical-align:top;width:100%;height:100%;position:absolute;&quot; src=&quot;http://www.youtube.com/embed/o063wC_SNxo?autoplay=1&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;';myAnchor.parentNode.replaceChild(tmpDiv.firstChild, myAnchor);return false;" title="click here to play">
-<a class="youtube-lazy-link" style="width:100%;height:100%;background:#000 url(http://i2.ytimg.com/vi/o063wC_SNxo/0.jpg) center center no-repeat;background-size:contain;position:absolute" href="http://www.youtube.com/watch?v=o063wC_SNxo" id="o063wC_SNxo" onclick="return false;">
-<div class="youtube-lazy-link-div"></div>
-<div class="youtube-lazy-link-info">The SLR Lounge iPhone Photo Shoot - A Follow Up Tribute to The FStoppers</div>
-</a>
-<div class="video-info" >There is a theory out there, that it "doesn't take expensive professional photography equipment to take great photos." For those of you that have seen the FStoppers iPhone Photo Shoot, they show just that, taking great professional-looking images on an iPhone 3GS.
-
-We wanted to add upon what they have already done and go one step further in proving this theory. So, we did an iPhone Photo Shoot tribute to the FStoppers.
-
-But, for this photo shoot we have set some ground rules:
-The Rules
-
-1) iPhone Camera Only -- We are not using any additional apps or functions other than the iPhone Camera that comes standard with each phone.
-
-2) Accessories Less than $30 -- We are limiting all additional photographic accessories to less than $30 each, and less than $100 in total for the entire shoot.
-
-3) Non-Professional Model -- We are using our lighting assistant and friend Yoko as our model. While she is beautiful, she doesn't have any prior modeling experience.
-
-4) Harsh Daytime Lighting -- We rescheduled this shoot to ensure that we didn't have any nice, photography-friendly overcast skies. We wanted to shoot in direct harsh sunlight so we can prove that this is possible regardless of the weather.
-
-So, enjoy the video guys, and be sure to let us know what you think! To see all of the original and edited shots from this shoot. Please check out the photos on our Facebook page at http://www.facebook.com/slrlounge</div>
-</div>
-
-</p>
+<p>{% youtube o063wC_SNxo %}</p>
 
 <p>Reflektor harganya berkisar 200 ribuan.</p>
 
@@ -718,11 +664,13 @@ So, enjoy the video guys, and be sure to let us know what you think! To see all 
 
 <p>Hobi fotografi bisa mahal ataupun murah. Terserah kita mau menghabiskan uang berapa rupiah. Yang jelas, untuk bisa menguasai berbagai teknik tidak butuh kamera mahal. Dengan budget dibawah 3 juta sudah bisa mulai. Penguasaan konsep dan teknik jauh lebih penting daripada harga kamera. Seperti kutipan berikut yang saya jadikan judul blog ini:</p>
 
-<p><blockquote><p>The single most important component of a camera is the twelve inches behind it!</p><footer><strong>Ansel Adams</strong></footer></blockquote></p>
+<p>{% blockquote Ansel Adams %}
+The single most important component of a camera is the twelve inches behind it!
+{% endblockquote %}</p>
 
 <p>Komponen terpenting dari kamera adalah duabelas inci di belakangnya (baca: otak Anda). Si pemegang kamera yang pada akhirnya menentukan keindahan dan kekuatan pesan dari foto yang dihasilkan.</p>
 
-<p><img src="/images/2013/10/membeli/bukit-hambalang.jpg" title="Bukit Hambalang" ></p>
+<p>{% img /images/2013/10/membeli/bukit-hambalang.jpg Bukit Hambalang %}</p>
 
 <p>Foto di atas diambil di Bukit Hambalang yang sering kita dengar di berita televisi, menggunakan kamera handphone. Informasi detail tentang fotonya (data <code>EXIF</code>) bisa dilihat <a href="http://www.flickr.com/photos/9177567@N08/8811375869/meta/">di sini</a>.</p>
 ]]></content>
