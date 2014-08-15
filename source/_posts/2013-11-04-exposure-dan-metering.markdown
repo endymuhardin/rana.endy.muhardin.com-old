@@ -220,6 +220,8 @@ Untuk menyesuaikan kamera agar bisa mengambil foto (exposure) sesuai keinginan k
 * Aperture
 * Shutter speed
 
+Pelajari lebih dalam mengenai ketiga variabel ini dalam [artikel lanjutan mengenai segitiga exposure](http://rana.endy.muhardin.com/teknik/segitiga-exposure/).
+
 Metering dan exposure ini merupakan konsep fundamental dalam fotografi, tidak berubah sejak pertama saya pegang kamera (tahun 1997) dan sepertinya tidak akan berubah di masa yang akan datang. Oleh karena itu kita perlu menguasai konsep ini dengan benar dan berlatih mengubah setting tiga variabel agar menjadi refleks dan bisa dilakukan tanpa berpikir, seperti perkalian 1-10.
 
 Dengan menguasai mode Manual dan memahami tentang exposure dan metering, kita tidak perlu pusing-pusing mempelajari segala macam mode yang disediakan kamera seperti _Scene_, _Portrait_, _Landscape_, _Sport_, dan berbagai mode lainnya.
