@@ -234,10 +234,6 @@ Kita mulai dari permukaan tembus pandang. Silahkan tonton penjelasan Om Karl Tay
 
 Inti dari memotret botol dan gelas adalah menghilangkan tepi sumber cahaya yang terlalu tajam. Ini dilakukan dengan cara `diffusion`. Sumber cahaya dihalangi oleh bahan yang tembus cahaya tapi tidak bening. Kita bisa gunakan kertas kalkir yang tersedia di toko buku.
 
-Selanjutnya, memotret logam oleh Pro Photo Life
-
-{% youtube KoY-cyxDMEk %}
-
 Dalam memotret benda mengkilap, kita justru harus memotret pantulan cahayanya. Prinsip yang digunakan ada di pelajaran IPA waktu SD, sudut datang cahaya = sudut pantul. 
 
 Berikutnya, memotret benda bertekstur.

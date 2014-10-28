@@ -4,7 +4,7 @@
   <title><![CDATA[Category: teknik | 12" behind the camera]]></title>
   <link href="http://rana.endy.muhardin.com/categories/teknik/atom.xml" rel="self"/>
   <link href="http://rana.endy.muhardin.com/"/>
-  <updated>2014-03-10T11:45:56+07:00</updated>
+  <updated>2014-10-28T22:28:09+07:00</updated>
   <id>http://rana.endy.muhardin.com/</id>
   <author>
     <name><![CDATA[Endy Muhardin]]></name>
@@ -53,25 +53,25 @@
 
 <p>Berikut contohnya</p>
 
-<p>{% img <a href="http://farm8.staticflickr.com/7353/11385607474_f3ee68fe3a_b_d.jpg">http://farm8.staticflickr.com/7353/11385607474_f3ee68fe3a_b_d.jpg</a> %}</p>
+<p><img class="<a" src="href="http://farm8.staticflickr.com/7353/11385607474_f3ee68fe3a_b_d.jpg">http://farm8.staticflickr.com/7353/11385607474_f3ee68fe3a_b_d.jpg</a>"></p>
 
 <p>Pada foto di atas, terlihat bahwa yang tajam hanya wajah subjek. Suasana di sekelilingnya tidak jelas (blur). Dengan demikian, mata pemirsa tidak punya pilihan lain selain mencermati wajah subjek.</p>
 
 <p>Perhatikan contoh berikut ini</p>
 
-<p>{% img <a href="http://farm4.staticflickr.com/3670/9380431077_9c0c7671ae_b_d.jpg">http://farm4.staticflickr.com/3670/9380431077_9c0c7671ae_b_d.jpg</a> %}</p>
+<p><img class="<a" src="href="http://farm4.staticflickr.com/3670/9380431077_9c0c7671ae_b_d.jpg">http://farm4.staticflickr.com/3670/9380431077_9c0c7671ae_b_d.jpg</a>"></p>
 
 <p>Pada foto di atas, kita memiliki dua subjek, yaitu subjek utama yang berada di depan dan subjek pendukung yang ada di belakang. Mata pemirsa akan tertarik ke subjek yang di depan karena lebih tajam. Pemirsa akan melihat tampang subjek utama yang jutek, kemudian menyimpulkan bahwa suasana hatinya sedang tidak bagus. Kemudian pemirsa akan melihat subjek kedua di latar belakang yang agak blur dan bisa menyimpulkan, &ldquo;Mungkin mereka sedang bertengkar&rdquo;. Dari benda yang dipegang subjek (pesawat mainan dan pesawat kertas), kita bisa mengira-ngira bahwa mereka memperebutkan pesawat tersebut.</p>
 
 <p>Mari kita lihat foto ketiga</p>
 
-<p>{% img <a href="http://farm3.staticflickr.com/2882/10718508205_738f886fa1_b_d.jpg">http://farm3.staticflickr.com/2882/10718508205_738f886fa1_b_d.jpg</a> %}</p>
+<p><img class="<a" src="href="http://farm3.staticflickr.com/2882/10718508205_738f886fa1_b_d.jpg">http://farm3.staticflickr.com/2882/10718508205_738f886fa1_b_d.jpg</a>"></p>
 
 <p>Kalau kita perhatikan dengan seksama, di latar belakang ada colokan listrik dan kotak berwarna merah dan hijau. Seandainya semuanya tajam, maka subjek kita akan tercampur dengan benda-benda tersebut dan tidak terlihat menonjol.</p>
 
 <p>Sekarang, kita lihat foto yang <em>kurang benar</em>.</p>
 
-<p>{% img <a href="http://farm3.staticflickr.com/2827/11459342373_e64d463467_b_d.jpg">http://farm3.staticflickr.com/2827/11459342373_e64d463467_b_d.jpg</a> %}</p>
+<p><img class="<a" src="href="http://farm3.staticflickr.com/2827/11459342373_e64d463467_b_d.jpg">http://farm3.staticflickr.com/2827/11459342373_e64d463467_b_d.jpg</a>"></p>
 
 <p>Pada foto di atas, terlihat bahwa semua benda dalam foto, baik anak yang sedang lari, rangka-rangka kayu, dan pohon di background semua relatif sama tajam. Coba kita tanyakan, &ldquo;Apa subjek dari foto tersebut?&rdquo; Kurang jelas bukan? Apakah kita ingin menampilkan anak-anak? Atau mungkin rangka-rangka kayu yang bentuknya tidak lazim?</p>
 
@@ -83,23 +83,23 @@
 
 <p>Warna cerah akan menarik perhatian kita. Konon ini adalah insting alami kita yang dibawa sejak jaman prasejarah dulu, untuk menyelamatkan kita dari benda-benda beracun dan berbahaya. Perhatikan foto berikut</p>
 
-<p>{% img <a href="http://farm4.staticflickr.com/3667/10433010455_cc16486e79_b_d.jpg">http://farm4.staticflickr.com/3667/10433010455_cc16486e79_b_d.jpg</a> %}</p>
+<p><img class="<a" src="href="http://farm4.staticflickr.com/3667/10433010455_cc16486e79_b_d.jpg">http://farm4.staticflickr.com/3667/10433010455_cc16486e79_b_d.jpg</a>"></p>
 
 <p>Kita dengan mudah menentukan bahwa subjeknya adalah anak yang sedang bermain pasir. Selain karena posisinya paling dekat, warna bajunya juga terlihat mencolok dibandingkan dengan pasir dan aspal di sekelilingnya.</p>
 
 <p>Bandingkan dengan foto berikut</p>
 
-<p>{% img <a href="http://farm8.staticflickr.com/7452/11459853086_817f52cbe1_b_d.jpg">http://farm8.staticflickr.com/7452/11459853086_817f52cbe1_b_d.jpg</a> %}</p>
+<p><img class="<a" src="href="http://farm8.staticflickr.com/7452/11459853086_817f52cbe1_b_d.jpg">http://farm8.staticflickr.com/7452/11459853086_817f52cbe1_b_d.jpg</a>"></p>
 
 <p>Kita sulit menentukan subjek pada foto di atas, karena terlalu banyak warna-warni yang berebut perhatian.</p>
 
 <p>Setelah memahami pengaruh warna untuk memisahkan subjek, kita bisa mengatur pemilihan kostum sebelum berangkat foto-foto. Bila kita pergi ke tempat yang banyak pohon, misalnya Kebun Raya Bogor, jangan pakai warna hijau atau kuning, karena akan tercampur dengan pohon dan rumput yang warnanya hijau. Pilih warna komplementer dari hijau yaitu merah atau ungu. Warna komplementer adalah warna yang berseberangan di color wheel. Lebih lanjut bisa <a href="http://www.tigercolor.com/color-lab/color-theory/color-theory-intro.htm">dibaca di sini</a>.</p>
 
-<p>{% img /images/2013/12/subject-isolation/complementary-color.gif %}</p>
+<p><img src="/images/2013/12/subject-isolation/complementary-color.gif"></p>
 
 <p>Aplikasinya bisa dilihat di foto berikut.</p>
 
-<p>{% img <a href="http://farm4.staticflickr.com/3741/10512716334_db324989b5_b_d.jpg">http://farm4.staticflickr.com/3741/10512716334_db324989b5_b_d.jpg</a> %}</p>
+<p><img class="<a" src="href="http://farm4.staticflickr.com/3741/10512716334_db324989b5_b_d.jpg">http://farm4.staticflickr.com/3741/10512716334_db324989b5_b_d.jpg</a>"></p>
 
 <p>Perhatikan bahwa jilbab ungu terlihat menonjol di depan latar hijau.</p>
 
@@ -111,17 +111,17 @@
 
 <p>Perhatikan foto berikut</p>
 
-<p>{% img <a href="http://farm6.staticflickr.com/5483/11448077314_612a6055a8_b_d.jpg">http://farm6.staticflickr.com/5483/11448077314_612a6055a8_b_d.jpg</a> %}</p>
+<p><img class="<a" src="href="http://farm6.staticflickr.com/5483/11448077314_612a6055a8_b_d.jpg">http://farm6.staticflickr.com/5483/11448077314_612a6055a8_b_d.jpg</a>"></p>
 
 <p>Jelas bahwa subjeknya adalah tong sampah, karena ukurannya begitu besar dibandingkan dengan benda-benda lain dalam foto. Bandingkan dengan foto berikut</p>
 
-<p>{% img <a href="http://farm3.staticflickr.com/2809/11433200104_53699cf2f7_o_d.jpg">http://farm3.staticflickr.com/2809/11433200104_53699cf2f7_o_d.jpg</a> %}</p>
+<p><img class="<a" src="href="http://farm3.staticflickr.com/2809/11433200104_53699cf2f7_o_d.jpg">http://farm3.staticflickr.com/2809/11433200104_53699cf2f7_o_d.jpg</a>"></p>
 
 <p>Terlihat bahwa emua benda dalam foto berukuran relatif sama besar sehingga kita sulit menentukan yang mana subjek utama.</p>
 
 <p>Perhatikan foto selanjutnya</p>
 
-<p>{% img <a href="http://farm8.staticflickr.com/7421/9989979624_29f49f511c_b_d.jpg">http://farm8.staticflickr.com/7421/9989979624_29f49f511c_b_d.jpg</a> %}</p>
+<p><img class="<a" src="href="http://farm8.staticflickr.com/7421/9989979624_29f49f511c_b_d.jpg">http://farm8.staticflickr.com/7421/9989979624_29f49f511c_b_d.jpg</a>"></p>
 
 <p>Dalam frame di atas, kita melihat ada dua orang. Kita bisa menentukan bahwa subjek utama adalah anak berpakaian pink dan subjek pendukung adalah orang berpakaian putih. Subjek utama terlihat dengan jelas karena diperkuat menggunakan kombinasi berbagai teknik di atas:</p>
 
@@ -142,7 +142,7 @@
 
 <p>Kita mulai dengan contoh yang relatif ekstrim.</p>
 
-<p>{% img <a href="http://farm8.staticflickr.com/7351/9330424261_9146d4b759_b_d.jpg">http://farm8.staticflickr.com/7351/9330424261_9146d4b759_b_d.jpg</a> %}</p>
+<p><img class="<a" src="href="http://farm8.staticflickr.com/7351/9330424261_9146d4b759_b_d.jpg">http://farm8.staticflickr.com/7351/9330424261_9146d4b759_b_d.jpg</a>"></p>
 
 <p>Saya menggunakan lampu kilat yang difokuskan untuk mengarahkan perhatian ke anak-anak yang sedang bermain gadget. Perhatian kita akan segera tertuju ke bagian terang. Setelah kita mengamati bagian terang, kita akan menyadari bahwa ada subjek pendukung di bagian gelap sebelah kanan. Dia terlihat sendiri memegang smartphone dan tidak ikut dalam kegembiraan bersama rekan-rekannya di bagian terang sebelah kiri. Dari tampangnya yang galau, kita jadi bertanya-tanya apa yang terjadi, mengapa dia main sendiri, mengapa dia terlihat sedih, dan seterusnya.</p>
 
@@ -150,23 +150,23 @@
 
 <p>Tapi ada kondisi di mana lokasi juga berperan untuk menambah cerita dalam foto, sehingga kita harus tampilkan juga. Tapi harus diperhatikan jangan sampai terlalu menarik perhatian sehingga mengganggu subjek utama. Perhatikan contoh berikut</p>
 
-<p>{% img <a href="http://farm6.staticflickr.com/5536/10663109326_760248c922_b_d.jpg">http://farm6.staticflickr.com/5536/10663109326_760248c922_b_d.jpg</a> %}</p>
+<p><img class="<a" src="href="http://farm6.staticflickr.com/5536/10663109326_760248c922_b_d.jpg">http://farm6.staticflickr.com/5536/10663109326_760248c922_b_d.jpg</a>"></p>
 
 <p>Subjek utama jelas, pakaiannya putih sehingga terlihat paling terang. Sekelilingnya agak gelap, sehingga tidak berebut perhatian. Kalau kita lihat dengan teliti, ada cahaya dari belakang, sehingga memisahkan bahu, kepala, dan telinga dari latar belakangnya. Lokasi sekitarnya jelas terlihat, yaitu dapur. Tapi karena lebih gelap dari subjek, maka tidak terlalu berebut perhatian dengan subjek utama. Ada kekurangan di foto ini, yaitu kisi-kisi yang terlalu terang di kiri atas dekat penggorengan. Kita bisa menggelapkannya pada fase post-processing menggunakan Photoshop atau Gimp.</p>
 
 <p>Selanjutnya, mari kita lihat contoh yang <em>&lsquo;salah&rsquo;</em>.</p>
 
-<p>{% img <a href="http://farm8.staticflickr.com/7298/11460819116_a7c8d09a15_b_d.jpg">http://farm8.staticflickr.com/7298/11460819116_a7c8d09a15_b_d.jpg</a> %}</p>
+<p><img class="<a" src="href="http://farm8.staticflickr.com/7298/11460819116_a7c8d09a15_b_d.jpg">http://farm8.staticflickr.com/7298/11460819116_a7c8d09a15_b_d.jpg</a>"></p>
 
 <p>Pada foto di atas, langitnya terlihat terlalu terang, sehingga mengalihkan perhatian kita dari model. Untuk mengatasinya, kita buat langit dan latar belakangnya <em>underexposed</em> sehingga terlihat lebih gelap. Kemudian kita terangi modelnya menggunakan flash supaya lebih terang dan menarik perhatian. Hasilnya seperti ini</p>
 
-<p>{% img <a href="http://farm4.staticflickr.com/3783/11385182353_6e70d25071_b_d.jpg">http://farm4.staticflickr.com/3783/11385182353_6e70d25071_b_d.jpg</a> %}</p>
+<p><img class="<a" src="href="http://farm4.staticflickr.com/3783/11385182353_6e70d25071_b_d.jpg">http://farm4.staticflickr.com/3783/11385182353_6e70d25071_b_d.jpg</a>"></p>
 
 <p>Nah, terlihat lebih baik kan? Sekarang subjek utama terlihat dengan jelas, dan latarnya berperan sebagai pemanis dan pendukung saja. Berbeda dengan foto sebelumnya dimana latar terlihat sangat dominan sehingga mengganggu subjek utama.</p>
 
 <p>Satu contoh lagi.</p>
 
-<p>{% img <a href="http://farm3.staticflickr.com/2871/11324666586_0f36aae35a_b_d.jpg">http://farm3.staticflickr.com/2871/11324666586_0f36aae35a_b_d.jpg</a> %}</p>
+<p><img class="<a" src="href="http://farm3.staticflickr.com/2871/11324666586_0f36aae35a_b_d.jpg">http://farm3.staticflickr.com/2871/11324666586_0f36aae35a_b_d.jpg</a>"></p>
 
 <p>Perhatikan bahwa pandangan mata kita akan tertarik pada penjual ikan yang tajam dan berada di depan. Setelah itu berlanjut ke orang yang diterangi lampu biru. Kemudian pindah ke orang berbaju merah yang blur.</p>
 
@@ -178,39 +178,39 @@
 
 <p>Contoh tumpukan yang paling populer adalah pohon tumbuh di kepala orang seperti ini</p>
 
-<p>{% img <a href="http://lh5.googleusercontent.com/-7gO-8X5pM_g/UrRaVJqSS4I/AAAAAAAADSI/yttFv2fAN4o/w265-h400-no/DSC_8765.JPG">http://lh5.googleusercontent.com/-7gO-8X5pM_g/UrRaVJqSS4I/AAAAAAAADSI/yttFv2fAN4o/w265-h400-no/DSC_8765.JPG</a> %}</p>
+<p><img class="<a" src="href="http://lh5.googleusercontent.com/-7gO-8X5pM_g/UrRaVJqSS4I/AAAAAAAADSI/yttFv2fAN4o/w265-h400-no/DSC_8765.JPG">http://lh5.googleusercontent.com/-7gO-8X5pM_g/UrRaVJqSS4I/AAAAAAAADSI/yttFv2fAN4o/w265-h400-no/DSC_8765.JPG</a>"></p>
 
 <p>Contoh lain, pada foto berikut antar orang saling bertumpukan sehingga tidak jelas mana subjek ataupun maksud dari fotonya.</p>
 
-<p>{% img <a href="http://lh3.googleusercontent.com/-1QG5OVwY4n4/UqRu0kwXmLI/AAAAAAAACx8/p9NSaWqujeU/w909-h602-no/DSC_8728.JPG">http://lh3.googleusercontent.com/-1QG5OVwY4n4/UqRu0kwXmLI/AAAAAAAACx8/p9NSaWqujeU/w909-h602-no/DSC_8728.JPG</a> %}</p>
+<p><img class="<a" src="href="http://lh3.googleusercontent.com/-1QG5OVwY4n4/UqRu0kwXmLI/AAAAAAAACx8/p9NSaWqujeU/w909-h602-no/DSC_8728.JPG">http://lh3.googleusercontent.com/-1QG5OVwY4n4/UqRu0kwXmLI/AAAAAAAACx8/p9NSaWqujeU/w909-h602-no/DSC_8728.JPG</a>"></p>
 
 <p>Bandingkan dengan foto berikut, yang walaupun masih terjadi tumpukan, tapi masing-masing orang masih bisa dipisahkan dengan jelas.</p>
 
-<p>{% img <a href="http://farm8.staticflickr.com/7449/11268859536_a120345143_b_d.jpg">http://farm8.staticflickr.com/7449/11268859536_a120345143_b_d.jpg</a> %}</p>
+<p><img class="<a" src="href="http://farm8.staticflickr.com/7449/11268859536_a120345143_b_d.jpg">http://farm8.staticflickr.com/7449/11268859536_a120345143_b_d.jpg</a>"></p>
 
 <p>Merging tidak selalu untuk objek yang besar. Kadangkala kabel atau tali bisa juga mengganggu, seperti ini</p>
 
-<p>{% img <a href="http://lh6.googleusercontent.com/-OYm7u98ftIA/UrzlCS7oCtI/AAAAAAAADTo/Jg5mxrJl6Nw/w869-h576-no/DSC_9498.JPG">http://lh6.googleusercontent.com/-OYm7u98ftIA/UrzlCS7oCtI/AAAAAAAADTo/Jg5mxrJl6Nw/w869-h576-no/DSC_9498.JPG</a> %}</p>
+<p><img class="<a" src="href="http://lh6.googleusercontent.com/-OYm7u98ftIA/UrzlCS7oCtI/AAAAAAAADTo/Jg5mxrJl6Nw/w869-h576-no/DSC_9498.JPG">http://lh6.googleusercontent.com/-OYm7u98ftIA/UrzlCS7oCtI/AAAAAAAADTo/Jg5mxrJl6Nw/w869-h576-no/DSC_9498.JPG</a>"></p>
 
 <p>Dengan bergeser sedikit ke kanan, kita bisa mengurangi merging. Berikut hasilnya</p>
 
-<p>{% img <a href="http://lh4.googleusercontent.com/-XYRCelCZnEs/UrzlBfjTtBI/AAAAAAAADTc/NQepG2DqiHw/w909-h541-no/DSC_9497.JPG">http://lh4.googleusercontent.com/-XYRCelCZnEs/UrzlBfjTtBI/AAAAAAAADTc/NQepG2DqiHw/w909-h541-no/DSC_9497.JPG</a> %}</p>
+<p><img class="<a" src="href="http://lh4.googleusercontent.com/-XYRCelCZnEs/UrzlBfjTtBI/AAAAAAAADTc/NQepG2DqiHw/w909-h541-no/DSC_9497.JPG">http://lh4.googleusercontent.com/-XYRCelCZnEs/UrzlBfjTtBI/AAAAAAAADTc/NQepG2DqiHw/w909-h541-no/DSC_9497.JPG</a>"></p>
 
 <p>Atau kita bisa menunggu subjek berpindah ke tempat yang lebih <em>clean</em> sehingga bebas dari objek yang mengganggu</p>
 
-<p>{% img <a href="http://lh5.googleusercontent.com/-Q_HHqTTut5g/UrzlBQDL84I/AAAAAAAADTY/3ckPTKW8lCc/w869-h576-no/DSC_9496.JPG">http://lh5.googleusercontent.com/-Q_HHqTTut5g/UrzlBQDL84I/AAAAAAAADTY/3ckPTKW8lCc/w869-h576-no/DSC_9496.JPG</a> %}</p>
+<p><img class="<a" src="href="http://lh5.googleusercontent.com/-Q_HHqTTut5g/UrzlBQDL84I/AAAAAAAADTY/3ckPTKW8lCc/w869-h576-no/DSC_9496.JPG">http://lh5.googleusercontent.com/-Q_HHqTTut5g/UrzlBQDL84I/AAAAAAAADTY/3ckPTKW8lCc/w869-h576-no/DSC_9496.JPG</a>"></p>
 
 <p>Ketiga foto di atas diambil di tempat yang sama. Hanya fotografer dan subjeknya saja yang bergeser sedikit (kurang dari satu meter). Perhatikan bahwa hanya dengan bergeser sedikit saja, hasil foto kita bisa menjadi jauh lebih baik.</p>
 
 <p>Selanjutnya, clipping. Yaitu dynamic range tidak lagi mampu menampung data karena perbedaan terang-gelap terlalu jauh. Lihat contoh berikut, dimana jilbab putih tidak bisa dibedakan lagi dengan langitnya.</p>
 
-<p>{% img <a href="http://rana.endy.muhardin.com/images/2013/11/exposure-metering/highlight-clipping.jpg">http://rana.endy.muhardin.com/images/2013/11/exposure-metering/highlight-clipping.jpg</a> %}</p>
+<p><img class="<a" src="href="http://rana.endy.muhardin.com/images/2013/11/exposure-metering/highlight-clipping.jpg">http://rana.endy.muhardin.com/images/2013/11/exposure-metering/highlight-clipping.jpg</a>"></p>
 
 <p>Lebih detail tentang dynamic range, clipping, dan cara mengatasinya bisa disimak <a href="http://rana.endy.muhardin.com/teknik/exposure-dan-metering/">di artikel terdahulu</a>.</p>
 
 <p>Berikut kasus yang tidak se-ekstrim clipping. Di foto berikut, perbedaan antara subjek dan latar tidak terlalu signifikan (sama-sama gelap), sehingga tidak menghasilkan isolation yang cukup.</p>
 
-<p>{% img <a href="http://lh6.googleusercontent.com/-VdtXRpQwXsY/UrzlBHOjlGI/AAAAAAAADTg/nb_BmLh0S0U/w908-h408-no/DSC_9375.JPG">http://lh6.googleusercontent.com/-VdtXRpQwXsY/UrzlBHOjlGI/AAAAAAAADTg/nb_BmLh0S0U/w908-h408-no/DSC_9375.JPG</a> %}</p>
+<p><img class="<a" src="href="http://lh6.googleusercontent.com/-VdtXRpQwXsY/UrzlBHOjlGI/AAAAAAAADTg/nb_BmLh0S0U/w908-h408-no/DSC_9375.JPG">http://lh6.googleusercontent.com/-VdtXRpQwXsY/UrzlBHOjlGI/AAAAAAAADTg/nb_BmLh0S0U/w908-h408-no/DSC_9375.JPG</a>"></p>
 
 <p>Solusinya, kita bisa menambahkan flash di rambut subjek supaya terang dan terpisah dari latarnya.</p>
 
@@ -252,7 +252,7 @@
 
 <p>Lalu dari tiga variabel yang tersedia, mana yang kita ubah? Penjelasan singkatnya bisa dilihat di infografik berikut.</p>
 
-<p>{% img /images/2013/11/segitiga-exposure/exposure-and-metering.jpg %}</p>
+<p><img src="/images/2013/11/segitiga-exposure/exposure-and-metering.jpg"></p>
 
 <p>Infografis diambil <a href="http://www.photographerabroad.com/image/24924941477">dari sini</a></p>
 
@@ -269,11 +269,11 @@
 
 <p>Kita ingin menggunakan ISO serendah mungkin, karena semakin tinggi ISO semakin jelek kualitas fotonya. Bandingkan foto berikut yang diambil dengan ISO 100</p>
 
-<p>{% img /images/2013/11/segitiga-exposure/iso-rendah.jpg %}</p>
+<p><img src="/images/2013/11/segitiga-exposure/iso-rendah.jpg"></p>
 
 <p>dengan foto berikut, diambil dengan ISO 1600</p>
 
-<p>{% img /images/2013/11/segitiga-exposure/iso-tinggi.jpg %}</p>
+<p><img src="/images/2013/11/segitiga-exposure/iso-tinggi.jpg"></p>
 
 <p>Seperti kita bisa lihat, foto dengan ISO tinggi terlihat memiliki banyak <em>noise</em>.</p>
 
@@ -285,19 +285,19 @@
 
 <p>Aperture adalah lubang di lensa, ditunjukkan dengan angka <code>f/xx</code>, contohnya <code>f/2</code> atau <code>f/16</code>. Semakin kecil angkanya, semakin besar lubangnya. Berikut adalah contoh lensa yang dibuka di <code>f/2</code>.</p>
 
-<p>{% img /images/2013/11/segitiga-exposure/bukaan-besar.jpg %}</p>
+<p><img src="/images/2013/11/segitiga-exposure/bukaan-besar.jpg"></p>
 
 <p>Lensa yang sama, dibuka di <code>f/16</code> tampak seperti ini</p>
 
-<p>{% img /images/2013/11/segitiga-exposure/bukaan-kecil.jpg %}</p>
+<p><img src="/images/2013/11/segitiga-exposure/bukaan-kecil.jpg"></p>
 
 <p>Kalau bukaan lebar, cahaya yang direkam sensor menjadi lebih banyak, sehingga kita bisa menurunkan ISO. Walaupun demikian, ruang tajam (<em>depth-of-field</em>) menjadi sempit. Coba lihat foto berikut</p>
 
-<p>{% img /images/2013/11/segitiga-exposure/dof-sempit.jpg %}</p>
+<p><img src="/images/2013/11/segitiga-exposure/dof-sempit.jpg"></p>
 
 <p>Objek di dekat kamera tampak tajam, sedangkan objek yang jauh tampak blur. Foto di atas dibuat dengan <code>f/2</code>. Sekarang kita coba dengan <code>f/16</code>.</p>
 
-<p>{% img /images/2013/11/segitiga-exposure/dof-lebar.jpg %}</p>
+<p><img src="/images/2013/11/segitiga-exposure/dof-lebar.jpg"></p>
 
 <p>Kita bisa lihat bahwa objek yang jauh tidak se-blur sebelumnya.</p>
 
@@ -315,19 +315,19 @@
 
 <p>Shutter speed (kecepatan rana) adalah kecepatan kamera <code>berkedip</code>. Semakin lama dia membuka rana, semakin banyak cahaya masuk. Shutter speed di kamera saya bisa diatur mulai dari terbuka selama kita inginkan (bulb), sampai ke 1/4000 detik. Bila shutter speed cepat, kita bisa membekukan gerakan. Contohnya di foto berikut, kita bisa membekukan air muncrat di udara.</p>
 
-<p>{% img /images/2013/11/segitiga-exposure/shutter-cepat.jpg %}</p>
+<p><img src="/images/2013/11/segitiga-exposure/shutter-cepat.jpg"></p>
 
 <p>Foto di atas dibuat dengan shutter speed 1/250 detik</p>
 
 <p>Bila shutter speed rendah, subjek akan terlihat blur bila dia bergerak dengan kecepatan tinggi. Bisa dilihat di foto berikut.</p>
 
-<p>{% img /images/2013/11/segitiga-exposure/shutter-lambat.jpg %}</p>
+<p><img src="/images/2013/11/segitiga-exposure/shutter-lambat.jpg"></p>
 
 <p>Lompatan subjek terlalu cepat untuk shutter speed 1/100 detik</p>
 
 <p>Bila terlalu lama dibuka, bahkan kita bisa membuat mobil tidak terlihat. Di foto berikut, kita hanya melihat kilasan lampu rem. Mobilnya sendiri tidak terlihat.</p>
 
-<p>{% img /images/2013/11/segitiga-exposure/long-exposure.jpg %}</p>
+<p><img src="/images/2013/11/segitiga-exposure/long-exposure.jpg"></p>
 
 <p>Foto di atas dibuat dengan shutter speed 20 detik.</p>
 
@@ -427,7 +427,7 @@ Opsi terakhir, kita bisa ubah aperture dari f/4 menjadi f/5.6. Shutter speed dan
 
 <p>Jawabannya, ada fitur lain yang harus kita gunakan, yaitu exposure compensation. Tombolnya ditandai dengan simbol berikut</p>
 
-<p>{% img /images/2013/11/segitiga-exposure/exposure-compensation.jpg 200 %}</p>
+<p><img src="/images/2013/11/segitiga-exposure/exposure-compensation.jpg" width="200"></p>
 
 <p>Gambar diambil <a href="http://www.maryga.com/exposure-compensation-definition/">dari sini</a></p>
 
@@ -453,7 +453,16 @@ Opsi terakhir, kita bisa ubah aperture dari f/4 menjadi f/5.6. Shutter speed dan
 
 <p>Kalau butuh referensi lebih lanjut, bisa tonton video berikut ini</p>
 
-<p>{% youtube KQw28-3LEU4 %}</p>
+<p>
+<div class="ratio-4-3 embed-video-container" onclick="var myAnchor = document.getElementById('KQw28-3LEU4');var tmpDiv = document.createElement('div');tmpDiv.innerHTML = '&lt;iframe style=&quot;vertical-align:top;width:100%;height:100%;position:absolute;&quot; src=&quot;http://www.youtube.com/embed/KQw28-3LEU4?autoplay=1&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;';myAnchor.parentNode.replaceChild(tmpDiv.firstChild, myAnchor);return false;" title="click here to play">
+<a class="youtube-lazy-link" style="width:100%;height:100%;background:#000 url(http://i2.ytimg.com/vi/KQw28-3LEU4/0.jpg) center center no-repeat;background-size:contain;position:absolute" href="http://www.youtube.com/watch?v=KQw28-3LEU4" id="KQw28-3LEU4" onclick="return false;">
+<div class="youtube-lazy-link-div"></div>
+<div class="youtube-lazy-link-info">Digital Photography 1 on 1: Episode 16: Exposure</div>
+</a>
+<div class="video-info" >In this episode Mark talks about the basics of exposure. Learn how the Aperture, Shutter and ISO work together to control how an image is exposed.</div>
+</div>
+
+</p>
 
 <p>Supaya belajarnya lebih jelas dan tidak mengawang-awang, ada aplikasi simulator yang tersedia gratis di internet.</p>
 
@@ -477,7 +486,7 @@ Opsi terakhir, kita bisa ubah aperture dari f/4 menjadi f/5.6. Shutter speed dan
     <id>http://rana.endy.muhardin.com/teknik/exposure-dan-metering</id>
     <content type="html"><![CDATA[<p>Saya pertama belajar fotografi di tahun 1995, menggunakan kamera film Nikon F3. Di tahun itu belajar fotografi tidak semudah sekarang. Saat ini, kita tinggal cari di Youtube, video tutorial sangat berlimpah. Mulai dari pengenalan kamera, komposisi, lighting, teknik berpose dan mengarahkan model, apapun yang kita butuhkan tersedia. Panduan saya di jaman dulu adalah buku saku <a href="http://www.amazon.com/KODAK-Pocket-Guide-35MM-Photography/dp/0879857692">Kodak Pocket Guide to 35mm Photography</a> milik teman sesama pehobi.</p>
 
-<p>{% img /images/2013/11/exposure-metering/kodak-pocket-guide.jpg Kodak Pocket Guide %}</p>
+<p><img src="/images/2013/11/exposure-metering/kodak-pocket-guide.jpg" title="Kodak Pocket Guide" ></p>
 
 <p><em>Foto diambil dari Amazon.com</em></p>
 
@@ -506,25 +515,25 @@ Opsi terakhir, kita bisa ubah aperture dari f/4 menjadi f/5.6. Shutter speed dan
 </ol>
 
 
-<p>{% img /images/2013/11/exposure-metering/nikon-f3.jpeg Nikon F3 %}</p>
+<p><img src="/images/2013/11/exposure-metering/nikon-f3.jpeg" title="Nikon F3" ></p>
 
 <p><em>foto diambil dari <a href="http://en.wikipedia.org/wiki/File:Nikon_F3_with_HP_viewfinder.jpeg">Wikipedia</a></em></p>
 
 <p>Tapi sejak ada light meter dalam kamera, tidak perlu lagi alat pengukur terpisah. Fotografer bisa melihat pengukuran cahaya dan langsung menyesuaikan setting kamera tanpa matanya perlu meninggalkan lubang intip (viewfinder). Tampilan light meter di kamera saya seperti ini:</p>
 
-<p>{% img /images/2013/11/exposure-metering/lightmeter-viewfinder.jpg Light Meter dalam Viewfinder %}</p>
+<p><img src="/images/2013/11/exposure-metering/lightmeter-viewfinder.jpg" title="Light Meter dalam Viewfinder" ></p>
 
 <p>Di layar LCD juga ada tampilan light meter.</p>
 
-<p>{% img /images/2013/11/exposure-metering/lightmeter-lcd.jpg Light Meter dalam LCD %}</p>
+<p><img src="/images/2013/11/exposure-metering/lightmeter-lcd.jpg" title="Light Meter dalam LCD" ></p>
 
 <p>Kalau indikator berat ke arah <code>+</code>, maka setting kamera kita kelebihan cahaya.</p>
 
-<p>{% img /images/2013/11/exposure-metering/metering-overexposed.png Light Meter Over Exposed %}</p>
+<p><img src="/images/2013/11/exposure-metering/metering-overexposed.png" title="Light Meter Over Exposed" ></p>
 
 <p>Demikian sebaliknya, kalau mengarah ke <code>-</code>, maka kita perlu menambah cahaya yang ditangkap kamera. Intinya, kita mengatur setting kamera supaya posisi indikator ada di tengah.</p>
 
-<p>{% img /images/2013/11/exposure-metering/metering-properly-exposed.png Light Meter Properly Exposed %}</p>
+<p><img src="/images/2013/11/exposure-metering/metering-properly-exposed.png" title="Light Meter Properly Exposed" ></p>
 
 <p><em>Ilustrasi di atas diambil dari <a href="http://www.nikonusa.com/pdf/manuals/dslr/D5100RM_EN.pdf%E2%80%8E">Reference Manual Nikon D5100</a></em></p>
 
@@ -541,7 +550,7 @@ Opsi terakhir, kita bisa ubah aperture dari f/4 menjadi f/5.6. Shutter speed dan
 
 <p>Segitiga exposure lebih mudah dipahami dengan ilustrasi berikut</p>
 
-<p>{% img /images/2013/11/exposure-metering/exposure-triangle.jpg Exposure Triangle %}</p>
+<p><img src="/images/2013/11/exposure-metering/exposure-triangle.jpg" title="Exposure Triangle" ></p>
 
 <p>Ilustrasi diambil <a href="http://www.lightandmatter.org/2011/general-photography-articles/learn-photography/photographys-unifying-theory-the-f-stop/">dari sini</a></p>
 
@@ -564,11 +573,11 @@ Opsi terakhir, kita bisa ubah aperture dari f/4 menjadi f/5.6. Shutter speed dan
 
 <p>Situasi: anak-anak bermain di kolam pada siang hari. Set ISO menjadi 100. Kita ingin membekukan cipratan air yang dimainkan anak-anak. Untuk itu kita set shutter speed yang tinggi, misalnya 1/400 detik. Intip viewfinder, sesuaikan aperture sampai indikator light meter ada di tengah, misalnya didapatkan nilai f/8. <a href="http://www.flickr.com/photos/9177567@N08/10512675224/meta/">Jepret</a>.</p>
 
-<p>{% img <a href="http://farm4.staticflickr.com/3749/10512675224_eacfb29947_c.jpg">http://farm4.staticflickr.com/3749/10512675224_eacfb29947_c.jpg</a> The Last Water Bender %}</p>
+<p><img class="<a" src="href="http://farm4.staticflickr.com/3749/10512675224_eacfb29947_c.jpg">http://farm4.staticflickr.com/3749/10512675224_eacfb29947_c.jpg</a>" title="The Last Water Bender" ></p>
 
 <p>Contoh kedua, di dalam ruangan. Set ISO menjadi 400 sebagai titik awal. Kita ingin membuat portrait orang. Biasanya kita buka aperture selebar mungkin, misalnya f/1.8. Intip viewfinder, sesuaikan shutter speed sampai indikator light meter ada di tengah. Ternyata didapatkan 1/80. Karena ini foto orang tidak bergerak, shutter speed tidak perlu sebesar itu. Kita bisa turunkan menjadi 1/60 sehingga ISO juga bisa turun menjadi 320. ISO rendah kualitas fotonya lebih baik. Sebetulnya bisa diturunkan lagi menjadi 1/30 dan ISO 180. Tapi saya takut kehilangan momen, sehingga cukup sampai di 1/60 dan ISO 320 langsung saya <a href="http://www.flickr.com/photos/9177567@N08/10663109326/meta/">jepret</a>.</p>
 
-<p>{% img <a href="http://farm6.staticflickr.com/5536/10663109326_760248c922_c.jpg">http://farm6.staticflickr.com/5536/10663109326_760248c922_c.jpg</a> Abah dan HP %}</p>
+<p><img class="<a" src="href="http://farm6.staticflickr.com/5536/10663109326_760248c922_c.jpg">http://farm6.staticflickr.com/5536/10663109326_760248c922_c.jpg</a>" title="Abah dan HP" ></p>
 
 <p><a name="histogram"></a></p>
 
@@ -582,25 +591,25 @@ Opsi terakhir, kita bisa ubah aperture dari f/4 menjadi f/5.6. Shutter speed dan
 
 <p>Preview LCD suka menipu. Bila kita lihat LCD di tengah hari bolong, dia akan terlihat gelap. Karena terlihat gelap, maka kita akan jepret lagi dengan menambah cahaya. Akibatnya foto kita malah jadi overexposed. Demikian juga sebaliknya di malam hari, LCD akan terlihat terang, sehingga kita cenderung memotret lagi dengan cahaya dikurangi. Akibatnya fotonya malah jadi underexposed. Supaya tidak bias dengan kondisi cahaya sekitar, lebih aman kalau kita lihat histogram. Bentuknya seperti ini</p>
 
-<p>{% img /images/2013/11/exposure-metering/histogram.jpg Histogram %}</p>
+<p><img src="/images/2013/11/exposure-metering/histogram.jpg" title="Histogram" ></p>
 
 <p>Sisi paling kiri adalah pixel yang gelap. Makin ke kanan makin terang. Jadi kalau foto kita overexposed, histogram akan terlihat berat ke kanan seperti ini</p>
 
-<p>{% img /images/2013/11/exposure-metering/histogram-over.jpg Histogram Over %}</p>
+<p><img src="/images/2013/11/exposure-metering/histogram-over.jpg" title="Histogram Over" ></p>
 
 <p>Sedangkan kalau fotonya underexposed, histogram akan terlihat berat di kiri seperti ini</p>
 
-<p>{% img /images/2013/11/exposure-metering/histogram-under.jpg Histogram Under %}</p>
+<p><img src="/images/2013/11/exposure-metering/histogram-under.jpg" title="Histogram Under" ></p>
 
 <p>Untuk rata-rata foto yang kita buat, histogram biasanya akan rata atau cenderung ke tengah</p>
 
-<p>{% img /images/2013/11/exposure-metering/histogram-normal.jpg Histogram Normal %}</p>
+<p><img src="/images/2013/11/exposure-metering/histogram-normal.jpg" title="Histogram Normal" ></p>
 
 <blockquote><p>Apakah kita harus selalu membuat histogram berat di tengah?</p></blockquote>
 
 <p>Tidak, tergantung objek yang difoto. Coba perhatikan foto berikut</p>
 
-<p>{% img /images/2013/11/exposure-metering/background-over.jpg Background Over %}</p>
+<p><img src="/images/2013/11/exposure-metering/background-over.jpg" title="Background Over" ></p>
 
 <p>Foto ini sudah <em>benar</em>, karena exposure di wajah subjek sudah tepat. Walaupun demikian, latar belakangnya putih total. Ini disebut dengan istilah <code>clipping</code>. Artinya kamera sudah tidak mampu merekam informasi karena selisih antara bagian gelap dan terang terlalu jauh.</p>
 
@@ -610,39 +619,49 @@ Opsi terakhir, kita bisa ubah aperture dari f/4 menjadi f/5.6. Shutter speed dan
 
 <p>Selisih gelap-terang yang bisa direkam kamera disebut dengan istilah <code>dynamic range</code>. Foto di atas diambil dalam ruangan yang gelap, sedangkan latar belakangnya di luar ruangan pada siang hari. Dalam histogram, clipping ditunjukkan dengan lonjakan nilai di pojok histogram.</p>
 
-<p>{% img /images/2013/11/exposure-metering/histogram-background-over.jpg Histogram Background Over %}</p>
+<p><img src="/images/2013/11/exposure-metering/histogram-background-over.jpg" title="Histogram Background Over" ></p>
 
 <p>Bila <em>clipping</em> terjadi di bagian terang (highlight) maka disebut <em>highlight clipping</em>. Bisa juga terjadi <em>shadow clipping</em> bila terjadi di bagian gelap (shadow). Bila kita cetak <em>highlight clipping</em> di atas kertas putih, printer tidak akan mengeluarkan tinta sama sekali.</p>
 
 <p>Masalah keterbatasan <em>dynamic range</em> kamera akan sangat terasa bila kita memotret pakaian hitam-putih di siang hari. Mau mendapatkan detail di pakaian putih, baju hitamnya clipping. Sebaliknya kalau kita ambil detail di pakaian hitam, bagian putih dan langit akan clipping sehingga tidak terlihat batasnya. Berikut contohnya</p>
 
-<p>{% img /images/2013/11/exposure-metering/highlight-clipping.jpg Highlight Clipping %}</p>
+<p><img src="/images/2013/11/exposure-metering/highlight-clipping.jpg" title="Highlight Clipping" ></p>
 
 <p>Pada foto di atas, kita tidak bisa membedakan batas jilbab dan langit, karena keduanya clipping.</p>
 
 <p>Dalam menghadapi kondisi ini, kita bisa <em>mengangkat</em> tingkat terang dari bagian gelap menggunakan flash. Kita kembali ke foto awal yang backgroundnya clipping ini</p>
 
-<p>{% img /images/2013/11/exposure-metering/background-over.jpg Background Over %}</p>
+<p><img src="/images/2013/11/exposure-metering/background-over.jpg" title="Background Over" ></p>
 
 <p>Pertama, sesuaikan metering supaya background terlihat. Konsekuensinya, subjek akan <em>underexposed</em>.</p>
 
-<p>{% img /images/2013/11/exposure-metering/subject-under.jpg Background Proper, Subject Under %}</p>
+<p><img src="/images/2013/11/exposure-metering/subject-under.jpg" title="Background Proper, Subject Under" ></p>
 
 <p>Setelah itu, gunakan flash untuk <em>mengangkat</em> tingkat terang dari subjek, sehingga seimbang dengan latarnya. Hasilnya seperti ini</p>
 
-<p>{% img /images/2013/11/exposure-metering/subject-bg-proper.jpg Background &amp; Subject Proper %}</p>
+<p><img src="/images/2013/11/exposure-metering/subject-bg-proper.jpg" title="Background &amp; Subject Proper" ></p>
 
 <p>Teknik seperti ini (menyeimbangkan tingkat cahaya berbagai bagian dalam foto) disebut dengan istilah <em>tonal compression</em>. Jika ingin melihat fotografer pro melakukannya, silahkan tonton Michael Grecco memotret Martin Scorsese di video berikut.</p>
 
-<p>{% youtube _nHKBRbqgos %}</p>
+<p>
+<div class="ratio-4-3 embed-video-container" onclick="var myAnchor = document.getElementById('_nHKBRbqgos');var tmpDiv = document.createElement('div');tmpDiv.innerHTML = '&lt;iframe style=&quot;vertical-align:top;width:100%;height:100%;position:absolute;&quot; src=&quot;http://www.youtube.com/embed/_nHKBRbqgos?autoplay=1&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;';myAnchor.parentNode.replaceChild(tmpDiv.firstChild, myAnchor);return false;" title="click here to play">
+<a class="youtube-lazy-link" style="width:100%;height:100%;background:#000 url(http://i2.ytimg.com/vi/_nHKBRbqgos/0.jpg) center center no-repeat;background-size:contain;position:absolute" href="http://www.youtube.com/watch?v=_nHKBRbqgos" id="_nHKBRbqgos" onclick="return false;">
+<div class="youtube-lazy-link-div"></div>
+<div class="youtube-lazy-link-info">Michael Grecco Photo Shoot of Director Martin Scorsese in New York City</div>
+</a>
+<div class="video-info" >http://www.michaelgrecco.com/
+Behind the scenes look at L.A. Photographer Michael Grecco and team preparing and executing New York City photo shoot of Director Martin Scorsese.</div>
+</div>
+
+</p>
 
 <p>Perhatikan lampu di kiri bawah subjek.</p>
 
-<p>{% img /images/2013/11/exposure-metering/grecco-grid-spot.png Grid Spot %}</p>
+<p><img src="/images/2013/11/exposure-metering/grecco-grid-spot.png" title="Grid Spot" ></p>
 
 <p>Itu tujuannya untuk menerangi baju hitam Martin Scorsese supaya tidak <em>clipping</em>, mengingat latar belakangnya langit siang yang terang.</p>
 
-<p>{% img /images/2013/11/exposure-metering/grecco-cloth-detail.png Dark Cloth Bright Subject %}</p>
+<p><img src="/images/2013/11/exposure-metering/grecco-cloth-detail.png" title="Dark Cloth Bright Subject" ></p>
 
 <p><a name="setting-light-meter"></a></p>
 
@@ -663,13 +682,13 @@ Opsi terakhir, kita bisa ubah aperture dari f/4 menjadi f/5.6. Shutter speed dan
 
 <p>Berikut pilihan mode metering di kamera Nikon dan Canon</p>
 
-<p>{% img /images/2013/11/exposure-metering/canikon-metering-icons.jpg Canon Nikon Metering Mode %}</p>
+<p><img src="/images/2013/11/exposure-metering/canikon-metering-icons.jpg" title="Canon Nikon Metering Mode" ></p>
 
 <p>Gambar diambil <a href="http://www.porters.com/blog/?p=2417">dari sini</a></p>
 
 <p>Sebagai contoh, kita akan memotret subjek dalam kondisi backlit, yaitu cahaya datang dari belakang subjek. Agar subjek pas pencahayaannya, saya gunakan spot meter di wajah subjek.</p>
 
-<p>{% img /images/2013/11/exposure-metering/spot-meter.jpg Spot Metering %}</p>
+<p><img src="/images/2013/11/exposure-metering/spot-meter.jpg" title="Spot Metering" ></p>
 
 <p>Di spot meter, posisi indikator light meter akan berada di tengah. Sedangkan untuk setting yang sama, bila kita gunakan mode matrix metering, posisi indikator akan berada di posisi <em>overexposed</em> karena yang dihitung oleh kamera adalah keseluruhan frame (termasuk latar yang sangat terang), bukan hanya subjeknya saja.</p>
 
@@ -677,7 +696,22 @@ Opsi terakhir, kita bisa ubah aperture dari f/4 menjadi f/5.6. Shutter speed dan
 
 <p>Lebih detail mengenai berbagai mode metering bisa ditonton di video berikut</p>
 
-<p>{% youtube B1H3WYkODWA %}</p>
+<p>
+<div class="ratio-4-3 embed-video-container" onclick="var myAnchor = document.getElementById('B1H3WYkODWA');var tmpDiv = document.createElement('div');tmpDiv.innerHTML = '&lt;iframe style=&quot;vertical-align:top;width:100%;height:100%;position:absolute;&quot; src=&quot;http://www.youtube.com/embed/B1H3WYkODWA?autoplay=1&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;';myAnchor.parentNode.replaceChild(tmpDiv.firstChild, myAnchor);return false;" title="click here to play">
+<a class="youtube-lazy-link" style="width:100%;height:100%;background:#000 url(http://i2.ytimg.com/vi/B1H3WYkODWA/0.jpg) center center no-repeat;background-size:contain;position:absolute" href="http://www.youtube.com/watch?v=B1H3WYkODWA" id="B1H3WYkODWA" onclick="return false;">
+<div class="youtube-lazy-link-div"></div>
+<div class="youtube-lazy-link-info">Digital Photography 1 on 1: Episode 25: Metering Part 1: ETTL: Adorama Photography TV</div>
+</a>
+<div class="video-info" >This week is the first episode in a four-part series about metering. In this episode, Mark will explain how your camera meters light and uses that to make a correct exposure. In the coming weeks, he will also go over exposure compensation, using a light meter and some advanced light metering tricks - so stay tuned!
+
+For related products and more articles and videos about exposure, go here: http://www.adorama.com/alc/article/TTL-Metering-AdoramaTV
+
+Visit http://www.adorama.com/learn for more photography videos!
+
+Send your questions to: AskMark@Adorama.com</div>
+</div>
+
+</p>
 
 <p>Kapan dan bagaimana cara menggunakannya bisa dibaca <a href="http://blog.mingthein.com/2013/01/04/metering-part-two/">di penjelasan Ming Thein</a>.</p>
 
@@ -707,6 +741,8 @@ Opsi terakhir, kita bisa ubah aperture dari f/4 menjadi f/5.6. Shutter speed dan
 <li>Shutter speed</li>
 </ul>
 
+
+<p>Pelajari lebih dalam mengenai ketiga variabel ini dalam <a href="http://rana.endy.muhardin.com/teknik/segitiga-exposure/">artikel lanjutan mengenai segitiga exposure</a>.</p>
 
 <p>Metering dan exposure ini merupakan konsep fundamental dalam fotografi, tidak berubah sejak pertama saya pegang kamera (tahun 1997) dan sepertinya tidak akan berubah di masa yang akan datang. Oleh karena itu kita perlu menguasai konsep ini dengan benar dan berlatih mengubah setting tiga variabel agar menjadi refleks dan bisa dilakukan tanpa berpikir, seperti perkalian 1-10.</p>
 
