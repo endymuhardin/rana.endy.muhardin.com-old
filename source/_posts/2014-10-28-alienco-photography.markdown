@@ -80,3 +80,5 @@ Demikian sekilas sharing tentang memilih fotografer untuk mengabadikan event kit
 * BBM : 27c6be20
 * Email : alienco.photography@gmail.com
 * Website : http://www.alienco.net
+
+> Catatan : semua foto di atas merupakan hasil karya Alienco Photography dan digunakan dengan ijin dari pemiliknya. Hak cipta foto ada pada Alienco Photography.
